@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode
+__pycache__/
+
+# Local project files and large files
+tree_database/.DS_Store
+tree_database/false_trees/
+tree_database/large_trees/
+
