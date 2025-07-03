@@ -21,7 +21,7 @@ class DirectoryBrowserOverlay(Widget):
     DEFAULT_CSS = """
     DirectoryBrowserOverlay {
         layer: overlay;
-        margin: 10 20;
+        margin: 2 10;
         border: heavy $accent;
         background: $panel-darken-1 80%;
     }
@@ -125,7 +125,7 @@ class FileSaveOverlay(DirectoryBrowserOverlay):
     DEFAULT_CSS = """
     FileSaveOverlay {
         layer: overlay;
-        margin: 10 20;
+        margin: 2 10;
         border: heavy $accent;
         background: $panel-darken-1 80%;
     }
