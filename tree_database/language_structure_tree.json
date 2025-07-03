@@ -1,0 +1,204 @@
+{
+  "Linguistic Structures": {
+    "Phonology": {
+      "Segmental": {
+        "Phoneme": {
+          "Consonant": {
+            "Place of Articulation": {
+              "Bilabial": {},
+              "Alveolar": {},
+              "Velar": {}
+            },
+            "Manner of Articulation": {
+              "Stop": {},
+              "Fricative": {},
+              "Nasal": {}
+            },
+            "Voicing": {
+              "Voiced": {},
+              "Voiceless": {}
+            }
+          },
+          "Vowel": {
+            "Height": {
+              "High": {},
+              "Mid": {},
+              "Low": {}
+            },
+            "Backness": {
+              "Front": {},
+              "Central": {},
+              "Back": {}
+            },
+            "Roundness": {
+              "Rounded": {},
+              "Unrounded": {}
+            }
+          }
+        },
+        "Syllable": {
+          "Onset": {},
+          "Nucleus": {},
+          "Coda": {},
+          "Syllable Templates": {
+            "CV": {},
+            "CVC": {},
+            "CCV": {}
+          }
+        }
+      },
+      "Suprasegmental": {
+        "Stress": {
+          "Fixed": {},
+          "Variable": {}
+        },
+        "Tone": {
+          "Level": {},
+          "Contour": {}
+        },
+        "Intonation": {
+          "Declarative": {},
+          "Interrogative": {}
+        }
+      }
+    },
+
+    "Morphology": {
+      "Morpheme": {
+        "Root": {},
+        "Affix": {
+          "Prefix": {},
+          "Suffix": {},
+          "Infix": {},
+          "Circumfix": {}
+        }
+      },
+      "Processes": {
+        "Inflection": {
+          "Tense": {},
+          "Number": {},
+          "Case": {}
+        },
+        "Derivation": {
+          "Nominalization": {},
+          "Verbalization": {}
+        },
+        "Reduplication": {},
+        "Compounding": {}
+      },
+      "Typology": {
+        "Isolating": {},
+        "Agglutinative": {},
+        "Fusional": {},
+        "Polysynthetic": {}
+      }
+    },
+
+    "Syntax": {
+      "Constituent Order": {
+        "Basic Word Order": {
+          "SVO": {},
+          "SOV": {},
+          "VSO": {}
+        },
+        "Flexible Order": {
+          "Topic-Comment": {},
+          "Focus-Movement": {}
+        }
+      },
+      "Phrase Structure": {
+        "Noun Phrase": {
+          "Det N": {},
+          "Adj N": {}
+        },
+        "Verb Phrase": {
+          "V NP": {},
+          "V PP": {}
+        },
+        "Clauses": {
+          "Subordinate": {},
+          "Relative": {},
+          "Coordinate": {}
+        }
+      },
+      "Agreement": {
+        "Subject-Verb": {},
+        "Noun-Adjective": {}
+      },
+      "Grammatical Relations": {
+        "Subject": {},
+        "Object": {},
+        "Oblique": {}
+      }
+    },
+
+    "Semantics": {
+      "Lexical Semantics": {
+        "Polysemy": {},
+        "Synonymy": {},
+        "Antonymy": {}
+      },
+      "Compositional Semantics": {
+        "Predicate Logic": {},
+        "Thematic Roles": {
+          "Agent": {},
+          "Patient": {},
+          "Experiencer": {}
+        }
+      },
+      "Tense & Aspect": {
+        "Perfective": {},
+        "Imperfective": {},
+        "Progressive": {}
+      },
+      "Modality": {
+        "Epistemic": {},
+        "Deontic": {}
+      }
+    },
+
+    "Pragmatics & Discourse": {
+      "Speech Acts": {
+        "Assertive": {},
+        "Directive": {},
+        "Commissive": {},
+        "Expressive": {},
+        "Declarative": {}
+      },
+      "Information Structure": {
+        "Topic": {},
+        "Focus": {},
+        "Given-New": {}
+      },
+      "Cohesion": {
+        "Anaphora": {},
+        "Cataphora": {},
+        "Ellipsis": {}
+      },
+      "Discourse Relations": {
+        "Cause": {},
+        "Contrast": {},
+        "Elaboration": {}
+      }
+    },
+
+    "Writing Systems": {
+      "Script Types": {
+        "Alphabet": {},
+        "Abjad": {},
+        "Abugida": {},
+        "Syllabary": {},
+        "Logographic": {}
+      },
+      "Orthographic Depth": {
+        "Shallow": {},
+        "Deep": {}
+      },
+      "Directionality": {
+        "Left-to-Right": {},
+        "Right-to-Left": {},
+        "Top-to-Bottom": {}
+      }
+    }
+  }
+}

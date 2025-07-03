@@ -1,0 +1,250 @@
+{
+  "Knowledge Trees": {
+    "Disciplinary Trees": {
+      "Natural Sciences": {
+        "Physics Tree": {
+          "Classical": {
+            "Mechanics": {},
+            "Thermodynamics": {},
+            "Electromagnetism": {}
+          },
+          "Modern": {
+            "Relativity": {},
+            "Quantum Mechanics": {},
+            "Particle Physics": {},
+            "Condensed Matter": {}
+          },
+          "Applied": {
+            "Nuclear": {},
+            "Astrophysics": {}
+          }
+        },
+        "Chemistry Tree": {
+          "Inorganic": {},
+          "Organic": {
+            "Biochemistry": {},
+            "Polymer": {}
+          },
+          "Physical": {},
+          "Analytical": {},
+          "Theoretical": {}
+        },
+        "Biology Tree": {
+          "Molecular": {},
+          "Cellular": {},
+          "Genetics": {},
+          "Ecology": {},
+          "Evolutionary": {},
+          "Physiology": {}
+        },
+        "Earth Science Tree": {
+          "Geology": {},
+          "Meteorology": {},
+          "Oceanography": {},
+          "Geophysics": {}
+        }
+      },
+      "Formal Sciences": {
+        "Mathematics Tree": {
+          "Algebra": {},
+          "Analysis": {},
+          "Geometry": {},
+          "Topology": {},
+          "Number Theory": {},
+          "Applied Math": {}
+        },
+        "Computer Science Tree": {
+          "Algorithms": {},
+          "Data Structures": {},
+          "Artificial Intelligence": {},
+          "Systems": {},
+          "Programming Languages": {}
+        },
+        "Logic Tree": {
+          "Propositional": {},
+          "First‑Order": {},
+          "Modal": {},
+          "Fuzzy": {}
+        }
+      },
+      "Social Sciences": {
+        "Psychology Tree": {
+          "Cognitive": {},
+          "Behavioral": {},
+          "Social": {},
+          "Developmental": {}
+        },
+        "Economics Tree": {
+          "Micro": {},
+          "Macro": {},
+          "Behavioral": {},
+          "Development": {}
+        },
+        "Sociology Tree": {
+          "Structural": {},
+          "Cultural": {},
+          "Demography": {},
+          "Criminology": {}
+        },
+        "Political Science Tree": {},
+        "Anthropology Tree": {}
+      },
+      "Humanities": {
+        "History Tree": {
+          "Ancient": {},
+          "Medieval": {},
+          "Modern": {},
+          "Contemporary": {}
+        },
+        "Philosophy Tree": {
+          "Metaphysics": {},
+          "Epistemology": {},
+          "Ethics": {},
+          "Aesthetics": {}
+        },
+        "Linguistics Tree": {
+          "Phonetics": {},
+          "Morphology": {},
+          "Syntax": {},
+          "Semantics": {}
+        },
+        "Literature Tree": {},
+        "Art History Tree": {}
+      },
+      "Applied Sciences": {
+        "Engineering Tree": {
+          "Civil": {},
+          "Mechanical": {},
+          "Electrical": {},
+          "Chemical": {},
+          "Aerospace": {}
+        },
+        "Medicine Tree": {
+          "Anatomy": {},
+          "Pathology": {},
+          "Surgery": {},
+          "Pharmacology": {}
+        },
+        "Agricultural Tree": {
+          "Crop Science": {},
+          "Soil Science": {},
+          "Animal Husbandry": {}
+        }
+      }
+    },
+
+    "Methodological Trees": {
+      "Taxonomy Trees": {
+        "Linnaean": {},
+        "Cladistic": {},
+        "Periodic Table": {},
+        "Library Classification": {}
+      },
+      "Decision & Algorithm Trees": {
+        "Decision Tree": {
+          "Classification": {},
+          "Regression": {}
+        },
+        "Algorithm Classification": {
+          "Sorting": {},
+          "Graph": {},
+          "Numerical": {}
+        },
+        "Heuristic Tree": {},
+        "Search Strategy Tree": {}
+      },
+      "Data Structure Trees": {
+        "Binary Search": {},
+        "Balanced Variants": {
+          "AVL": {},
+          "Red‑Black": {}
+        },
+        "Multi‑Way": {
+          "B‑Tree": {},
+          "R‑Tree": {}
+        },
+        "Suffix": {
+          "Trie": {},
+          "Suffix Tree": {}
+        }
+      },
+      "Process Trees": {
+        "Manufacturing Workflow": {},
+        "Software Build": {},
+        "Scientific Method": {}
+      }
+    },
+
+    "Evolutionary & Historical Trees": {
+      "Phylogenetic": {
+        "Universal Tree of Life": {},
+        "Mammal Tree": {},
+        "Plant Tree": {}
+      },
+      "Language Family": {
+        "Indo‑European": {},
+        "Sino‑Tibetan": {},
+        "Afro‑Asiatic": {}
+      },
+      "Technology Lineage": {
+        "Computing Hardware": {},
+        "Transportation": {},
+        "Energy Systems": {}
+      },
+      "Cultural Diffusion": {
+        "Music Genres": {},
+        "Cuisine Styles": {}
+      },
+      "Art Movements": {},
+      "Religious Traditions": {}
+    },
+
+    "Conceptual Mapping Trees": {
+      "Ontology": {
+        "Upper Ontology": {},
+        "Domain Ontology": {},
+        "Application Ontology": {}
+      },
+      "Concept Map": {
+        "Hierarchical": {},
+        "Spider": {},
+        "Flowchart": {}
+      },
+      "Mind Map": {},
+      "Topic Hierarchy": {},
+      "Argument Tree": {}
+    },
+
+    "Educational Trees": {
+      "Curriculum Prerequisite": {
+        "K‑12": {},
+        "Undergraduate Major": {},
+        "MOOC Path": {}
+      },
+      "Skill Progression": {
+        "Language Learning": {},
+        "Programming Skill": {},
+        "Music Theory": {}
+      },
+      "Video Game Tech": {
+        "4X Strategy": {},
+        "Role‑Playing": {},
+        "Real‑Time Strategy": {}
+      }
+    },
+
+    "Analytical & Diagnostic Trees": {
+      "Fault Tree Analysis": {
+        "AND Gate": {},
+        "OR Gate": {}
+      },
+      "Event Tree": {
+        "Initiating Event": {},
+        "Branch Point": {}
+      },
+      "Influence Diagram": {},
+      "Cause‑Effect (Ishikawa) Tree": {},
+      "Decision Support Tree": {}
+    }
+  }
+}

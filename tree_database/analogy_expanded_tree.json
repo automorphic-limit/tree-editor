@@ -1,0 +1,148 @@
+{
+  "Analogies": {
+    "Structural Analogies": {
+      "Mechanical–Electrical": {
+        "Hydraulic Circuit ↔ Electrical Circuit": {
+          "Pressure ↔ Voltage": {},
+          "Flow ↔ Current": {}
+        },
+        "Mass–Spring ↔ RLC Circuit": {
+          "Mass ↔ Inductor": {},
+          "Spring ↔ Capacitor": {}
+        },
+        "Thermal Conduction ↔ Resistor Network": {}
+      },
+      "Biomimetic": {
+        "Bone Truss ↔ Bridge Truss": {},
+        "Leaf Venation ↔ Transport Grid": {},
+        "Shark Skin ↔ Drag‑Reducing Surface": {}
+      },
+      "Geometric & Fractal": {
+        "River Delta ↔ Neural Dendrite": {},
+        "Snowflake ↔ Crystal Growth": {},
+        "Galaxy Spiral ↔ Nautilus Shell": {}
+      },
+      "Network Topology": {
+        "Power Grid ↔ Metabolic Network": {},
+        "Internet AS Graph ↔ Mycelial Network": {}
+      }
+    },
+
+    "Functional Analogies": {
+      "Control & Regulation": {
+        "Thermostat ↔ Endocrine Feedback": {},
+        "Autopilot ↔ Vestibular Balance": {}
+      },
+      "Information Processing": {
+        "DNA Transcription ↔ Compiler": {},
+        "Neural Network ↔ Logistic Regression Ensemble": {}
+      },
+      "Energy Conversion": {
+        "Photosynthesis ↔ Solar Cell": {},
+        "ATP Synthase ↔ Turbine": {}
+      }
+    },
+
+    "Process Analogies": {
+      "Evolutionary Search": {
+        "Natural Selection ↔ Genetic Algorithm": {},
+        "Immune Response ↔ Ant Colony Optimization": {}
+      },
+      "Diffusive Phenomena": {
+        "Heat Equation ↔ Option Pricing (Black‑Scholes)": {},
+        "Gas Diffusion ↔ Opinion Spread": {}
+      },
+      "Phase Transition": {
+        "Water Boiling ↔ Traffic Jam Formation": {},
+        "Magnetic Ordering ↔ Consensus Formation": {}
+      }
+    },
+
+    "Mathematical Analogies": {
+      "Correspondence Principles": {
+        "Geometric Optics ↔ Classical Mechanics (Hamilton–Jacobi)": {},
+        "Quantum Field ↔ Statistical Field (Wick Rotation)": {}
+      },
+      "Isomorphisms": {
+        "Graph ↔ Matrix Representation": {},
+        "Complex Numbers ↔ 2D Vectors": {}
+      },
+      "Dualities & Adjunctions": {
+        "Fourier Transform ↔ Time–Frequency": {},
+        "Laplace Transform ↔ Causal Response": {}
+      }
+    },
+
+    "Rhetorical Analogies": {
+      "Figures of Speech": {
+        "Simile": {},
+        "Metaphor": {},
+        "Allegory": {},
+        "Parable": {},
+        "Analogy Proportion": {}
+      },
+      "Argumentative": {
+        "Reductio ad Absurdum ↔ Edge Case Analogy": {},
+        "Thought Experiment ↔ Counterfactual": {}
+      },
+      "Narrative Devices": {
+        "Framing Story ↔ Nested Function": {},
+        "Foreshadowing ↔ Predictive Model": {}
+      }
+    },
+
+    "Educational Analogies": {
+      "STEM Instruction": {
+        "Water Flow ↔ Electric Current": {},
+        "Plinko ↔ Binomial Distribution": {},
+        "Rubber Sheet ↔ Spacetime Curvature": {}
+      },
+      "Mathematics Instruction": {
+        "Pizza Slice ↔ Fraction": {},
+        "Number Line ↔ Thermometer": {},
+        "Balance Scale ↔ Equation Solving": {}
+      },
+      "History Instruction": {
+        "Rome ↔ Modern Superpower": {},
+        "Silk Road ↔ Internet": {}
+      }
+    },
+
+    "Cross‑Domain Analogies": {
+      "Brain ↔ Computer": {
+        "Neurons ↔ Transistors": {},
+        "Synapse Weight ↔ RAM Cell": {},
+        "Plasticity ↔ Reconfigurable Logic": {}
+      },
+      "City ↔ Organism": {
+        "Roads ↔ Blood Vessels": {},
+        "Sewage ↔ Excretory System": {},
+        "Power Grid ↔ Metabolism": {}
+      },
+      "Ecosystem ↔ Economy": {
+        "Energy Flow ↔ Money Circulation": {},
+        "Keystone Species ↔ Market Maker": {}
+      }
+    },
+
+    "Cognitive Analogies": {
+      "Conceptual Mapping": {
+        "Source Domain": {},
+        "Target Domain": {},
+        "Mapping Rules": {}
+      },
+      "Blending Theory": {
+        "Input Space 1": {},
+        "Input Space 2": {},
+        "Generic Space": {},
+        "Blended Space": {}
+      },
+      "Analogical Reasoning Stages": {
+        "Retrieval": {},
+        "Alignment": {},
+        "Mapping": {},
+        "Evaluation": {}
+      }
+    }
+  }
+}

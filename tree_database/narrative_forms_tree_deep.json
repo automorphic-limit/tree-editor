@@ -1,0 +1,295 @@
+{
+  "Narratives": {
+    "Modes": {
+      "Fiction": {
+        "Prose": {
+          "Short Story": {},
+          "Novella": {},
+          "Novel": {}
+        },
+        "Drama": {
+          "Stage Play": {},
+          "Screenplay": {},
+          "Radio Play": {}
+        },
+        "Poetry": {
+          "Epic": {},
+          "Lyric": {},
+          "Narrative Poem": {}
+        },
+        "Interactive": {
+          "Visual Novel": {},
+          "Text Adventure": {},
+          "Role‑Playing Game": {}
+        }
+      },
+      "Non‑Fiction": {
+        "Essay": {},
+        "Memoir": {},
+        "Biography": {},
+        "Documentary": {},
+        "Journalism": {},
+        "Academic Writing": {}
+      }
+    },
+
+    "Media": {
+      "Literature": {},
+      "Film": {},
+      "Television": {},
+      "Theatre": {},
+      "Music": {},
+      "Comics / Graphic Novels": {},
+      "Games": {},
+      "Podcast / Audio": {},
+      "Oral Storytelling": {}
+    },
+
+    "Genres": {
+      "Speculative": {
+        "Science Fiction": {
+          "Hard SF": {},
+          "Space Opera": {},
+          "Cyberpunk": {},
+          "Time Travel": {}
+        },
+        "Fantasy": {
+          "High Fantasy": {},
+          "Urban Fantasy": {},
+          "Dark Fantasy": {}
+        },
+        "Alternate History": {},
+        "Dystopian": {}
+      },
+      "Realistic": {
+        "Drama": {},
+        "Romance": {
+          "Contemporary Romance": {},
+          "Historical Romance": {}
+        },
+        "Comedy": {
+          "Satire": {},
+          "Farce": {}
+        },
+        "Slice of Life": {}
+      },
+      "Suspense": {
+        "Mystery": {
+          "Detective": {},
+          "Cozy Mystery": {}
+        },
+        "Thriller": {
+          "Psychological": {},
+          "Political": {}
+        },
+        "Crime": {}
+      },
+      "Horror": {
+        "Gothic": {},
+        "Psychological": {},
+        "Slasher": {},
+        "Cosmic Horror": {}
+      },
+      "Historical": {},
+      "Documentary": {},
+      "Musical": {}
+    },
+
+    "Structures": {
+      "Act‑Based": {
+        "Three‑Act": {
+          "Setup": {},
+          "Confrontation": {},
+          "Resolution": {}
+        },
+        "Five‑Act (Freytag)": {
+          "Exposition": {},
+          "Rising Action": {},
+          "Climax": {},
+          "Falling Action": {},
+          "Denouement": {}
+        }
+      },
+      "Mythic": {
+        "Hero's Journey": {
+          "Call to Adventure": {},
+          "Supreme Ordeal": {},
+          "Return with Elixir": {}
+        },
+        "Kishōtenketsu": {
+          "Ki (Introduction)": {},
+          "Shō (Development)": {},
+          "Ten (Twist)": {},
+          "Ketsu (Conclusion)": {}
+        }
+      },
+      "Narrative Beats": {
+        "Inciting Incident": {},
+        "Midpoint": {},
+        "Crisis": {},
+        "Climax": {},
+        "Final Image": {}
+      },
+      "Musical Forms": {
+        "Verse‑Chorus": {},
+        "Sonata‑Allegro": {
+          "Exposition": {},
+          "Development": {},
+          "Recapitulation": {}
+        },
+        "Rondo": {},
+        "Theme & Variations": {}
+      }
+    },
+
+    "Elements": {
+      "Character": {
+        "Roles": {
+          "Protagonist": {},
+          "Antagonist": {},
+          "Foil": {},
+          "Mentor": {},
+          "Sidekick": {}
+        },
+        "Archetypes": {
+          "Hero": {},
+          "Shadow": {},
+          "Trickster": {},
+          "Sage": {},
+          "Maiden": {}
+        },
+        "Arcs": {
+          "Positive Change": {},
+          "Negative Change": {},
+          "Flat / Static": {}
+        },
+        "Traits": {},
+        "Motivations": {},
+        "Backstory": {}
+      },
+      "Plot": {
+        "Conflict": {
+          "Person vs Person": {},
+          "Person vs Self": {},
+          "Person vs Society": {},
+          "Person vs Nature": {},
+          "Person vs Technology": {}
+        },
+        "Rising Action": {},
+        "Resolution": {}
+      },
+      "Setting": {
+        "Time": {},
+        "Place": {},
+        "World‑Building": {
+          "Magic System": {},
+          "Technology Level": {},
+          "Culture": {}
+        }
+      },
+      "Theme": {
+        "Love": {},
+        "Power": {},
+        "Identity": {},
+        "Freedom vs Control": {}
+      },
+      "Point of View": {
+        "First Person": {},
+        "Second Person": {},
+        "Third Person Limited": {},
+        "Third Person Omniscient": {}
+      },
+      "Tone & Style": {}
+    },
+
+    "Motifs & Symbols": {
+      "Recurring Objects": {
+        "Mirror": {},
+        "Key": {},
+        "Road / Journey": {}
+      },
+      "Colors": {
+        "Red": {},
+        "Blue": {},
+        "White": {}
+      },
+      "Natural Elements": {
+        "Water": {},
+        "Fire": {},
+        "Forest": {}
+      },
+      "Leitmotifs (Music)": {
+        "Character Theme": {},
+        "Location Theme": {},
+        "Emotional Cue": {}
+      }
+    },
+
+    "Devices": {
+      "Temporal": {
+        "Flashback": {},
+        "Foreshadowing": {},
+        "Nonlinear": {},
+        "Time Skip": {}
+      },
+      "Structural": {
+        "Frame Story": {},
+        "Multiple POV": {},
+        "Unreliable Narrator": {},
+        "Epistolary": {}
+      },
+      "Meta": {
+        "Breaking Fourth Wall": {},
+        "Metafiction": {},
+        "Story within a Story": {}
+      },
+      "Rhetorical": {
+        "Irony": {},
+        "Allegory": {},
+        "Symbolism": {}
+      }
+    },
+
+    "Film Forms": {
+      "Scene": {},
+      "Sequence": {},
+      "Montage": {},
+      "Shot Types": {
+        "Wide": {},
+        "Medium": {},
+        "Close‑Up": {},
+        "POV": {}
+      },
+      "Editing Techniques": {
+        "Cross‑Cutting": {},
+        "Match Cut": {},
+        "Jump Cut": {},
+        "Long Take": {}
+      },
+      "Sound Design": {
+        "Diegetic": {},
+        "Non‑Diegetic": {},
+        "Foley": {}
+      }
+    },
+
+    "Music Narratives": {
+      "Motif": {},
+      "Phrase": {},
+      "Period": {},
+      "Sentence (musical)": {},
+      "Movement": {},
+      "Leitmotif": {},
+      "Program Music": {}
+    },
+
+    "Interactive Narratives": {
+      "Branching Story": {},
+      "Emergent Narrative": {},
+      "Environmental Storytelling": {},
+      "Player Agency": {},
+      "Dialogue Trees": {},
+      "Procedural Story Generation": {}
+    }
+  }
+}

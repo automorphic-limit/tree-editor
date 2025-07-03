@@ -1,0 +1,147 @@
+{
+  "Weird & Strange": {
+    "Weird Phenomena": {
+      "Cryptids": {
+        "Bigfoot": {},
+        "Nessie": {},
+        "Mothman": {},
+        "Chupacabra": {}
+      },
+      "UFO & UAP": {
+        "Roswell Incident": {},
+        "Phoenix Lights": {},
+        "Tic-Tac Video": {}
+      },
+      "Anomalous Zones": {
+        "Bermuda Triangle": {},
+        "Devil's Sea": {},
+        "Zone of Silence": {}
+      },
+      "Spontaneous Events": {
+        "Ball Lightning": {},
+        "Spontaneous Human Combustion": {}
+      }
+    },
+
+    "Weird Concepts": {
+      "Paradoxes": {
+        "Russell's Paradox": {},
+        "Grandfather Paradox": {},
+        "Ship of Theseus": {},
+        "Bootstrap Paradox": {}
+      },
+      "Thought Experiments": {
+        "Schrödinger's Cat": {},
+        "Brain in a Vat": {},
+        "Chinese Room": {},
+        "Maxwell's Demon": {}
+      },
+      "Conspiracy Theories": {
+        "Flat Earth": {},
+        "Mandela Effect": {},
+        "Simulation Hypothesis": {}
+      }
+    },
+
+    "Weird Science": {
+      "Quantum Oddities": {
+        "Entanglement": {},
+        "Quantum Tunneling": {},
+        "Delayed-Choice": {}
+      },
+      "Fringe Physics": {
+        "Tachyons": {},
+        "Warp Drive": {},
+        "Negative Mass": {}
+      },
+      "Bio Anomalies": {
+        "Tardigrade Survival": {},
+        "Immortal Jellyfish": {},
+        "Regenerating Axolotl": {}
+      }
+    },
+
+    "Weird Mathematics": {
+      "Counterintuitive Objects": {
+        "Banach–Tarski Paradox": {},
+        "Gabriel's Horn": {},
+        "Alexander Horned Sphere": {}
+      },
+      "Infinite Puzzles": {
+        "Hilbert's Hotel": {},
+        "Ultrafilters": {}
+      },
+      "Non-Euclidean Gems": {
+        "Hyperbolic Plane": {},
+        "Spherical Geometry": {}
+      }
+    },
+
+    "Weird Art & Culture": {
+      "Surrealism": {
+        "Dali Melting Clocks": {},
+        "Magritte Pipe": {}
+      },
+      "Avant-Garde Movements": {
+        "Dada": {},
+        "Fluxus": {}
+      },
+      "Outsider Music": {
+        "The Residents": {},
+        "Jandek": {}
+      },
+      "Cryptic Literature": {
+        "House of Leaves": {},
+        "Finnegans Wake": {}
+      }
+    },
+
+    "Weird Technology": {
+      "Steampunk Gadgets": {
+        "Analogue Computers": {},
+        "Vacuum Tube Calculators": {}
+      },
+      "Retro Futurism": {
+        "Raygun Gothic": {},
+        "Atompunk Aesthetic": {}
+      },
+      "Failed Inventions": {
+        "Bird-Powered Ornithopter": {},
+        "CueCat Barcode Reader": {}
+      }
+    },
+
+    "Weird Linguistics": {
+      "Constructed Languages": {
+        "Klingon": {},
+        "Toki Pona": {},
+        "Lojban": {}
+      },
+      "Unusual Writing Systems": {
+        "Voynich Manuscript": {},
+        "Blissymbols": {}
+      },
+      "Palindrome Phrases": {
+        "Able was I ere I saw Elba": {},
+        "Taco cat": {}
+      }
+    },
+
+    "Weird History & Mythology": {
+      "Lost Civilisations": {
+        "Atlantis": {},
+        "Mu": {},
+        "Lemuria": {}
+      },
+      "Mythic Creatures": {
+        "Kraken": {},
+        "Basilisk": {},
+        "Minotaur": {}
+      },
+      "Historical Oddities": {
+        "Dancing Plague": {},
+        "Rabbit Woman of Godalming": {}
+      }
+    }
+  }
+}

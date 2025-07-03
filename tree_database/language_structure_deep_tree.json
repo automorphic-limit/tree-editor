@@ -1,0 +1,309 @@
+{
+  "Linguistic Structures": {
+    "Phonology": {
+      "Segmental": {
+        "Phoneme": {
+          "Consonant": {
+            "Place of Articulation": {
+              "Bilabial": {},
+              "Labiodental": {},
+              "Dental": {},
+              "Alveolar": {},
+              "Postalveolar": {},
+              "Retroflex": {},
+              "Palatal": {},
+              "Velar": {},
+              "Uvular": {},
+              "Glottal": {}
+            },
+            "Manner of Articulation": {
+              "Plosive": {},
+              "Nasal": {},
+              "Trill": {},
+              "Tap": {},
+              "Fricative": {},
+              "Affricate": {},
+              "Approximant": {},
+              "Lateral": {}
+            },
+            "Voicing": {
+              "Voiced": {},
+              "Voiceless": {},
+              "Aspirated": {},
+              "Ejective": {}
+            }
+          },
+          "Vowel": {
+            "Height": {
+              "Close": {},
+              "Near‑Close": {},
+              "Close‑Mid": {},
+              "Mid": {},
+              "Open‑Mid": {},
+              "Near‑Open": {},
+              "Open": {}
+            },
+            "Backness": {
+              "Front": {},
+              "Central": {},
+              "Back": {}
+            },
+            "Roundness": {
+              "Rounded": {},
+              "Unrounded": {}
+            },
+            "Length": {
+              "Short": {},
+              "Long": {}
+            }
+          }
+        },
+        "Syllable": {
+          "CV Patterns": {
+            "CV": {},
+            "CVC": {},
+            "CCV": {},
+            "CVCC": {}
+          },
+          "Phonotactics": {
+            "Onset Clusters": {},
+            "Coda Restrictions": {}
+          }
+        },
+        "Phonological Processes": {
+          "Assimilation": {},
+          "Dissimilation": {},
+          "Lenition": {},
+          "Fortition": {},
+          "Deletion": {},
+          "Insertion": {}
+        }
+      },
+      "Suprasegmental": {
+        "Stress": {
+          "Fixed": {
+            "Initial": {},
+            "Final": {}
+          },
+          "Variable": {
+            "Lexical": {},
+            "Predictable": {}
+          }
+        },
+        "Tone": {
+          "Register Tone": {
+            "High": {},
+            "Low": {}
+          },
+          "Contour Tone": {
+            "Rising": {},
+            "Falling": {},
+            "Dipping": {}
+          }
+        },
+        "Intonation": {
+          "Declarative": {},
+          "Interrogative": {},
+          "Exclamatory": {}
+        }
+      }
+    },
+
+    "Morphology": {
+      "Morpheme Types": {
+        "Root": {},
+        "Stem": {},
+        "Affix": {
+          "Prefix": {},
+          "Suffix": {},
+          "Infix": {},
+          "Circumfix": {},
+          "Interfix": {}
+        }
+      },
+      "Morphological Processes": {
+        "Inflection": {
+          "Tense‑Aspect": {},
+          "Number": {},
+          "Gender": {},
+          "Case": {},
+          "Mood": {}
+        },
+        "Derivation": {
+          "Agent Noun": {},
+          "Diminutive": {},
+          "Causative": {}
+        },
+        "Reduplication": {
+          "Full": {},
+          "Partial": {}
+        },
+        "Internal Change": {
+          "Ablaut": {},
+          "Umlaut": {}
+        },
+        "Suppletion": {}
+      },
+      "Typology": {
+        "Isolating": {},
+        "Agglutinative": {},
+        "Fusional": {},
+        "Polysynthetic": {},
+        "Templatic": {}
+      }
+    },
+
+    "Syntax": {
+      "Word Order": {
+        "Canonical": {
+          "SVO": {},
+          "SOV": {},
+          "VSO": {},
+          "VOS": {},
+          "OSV": {},
+          "OVS": {}
+        },
+        "Alternations": {
+          "Topicalization": {},
+          "Wh‑Movement": {},
+          "Scrambling": {}
+        }
+      },
+      "Phrase Structure": {
+        "X‑Bar Schema": {
+          "Specifier": {},
+          "Head": {},
+          "Complement": {},
+          "Adjunct": {}
+        },
+        "Clause Types": {
+          "Main": {},
+          "Subordinate": {
+            "Complement": {},
+            "Relative": {},
+            "Adverbial": {}
+          }
+        }
+      },
+      "Alignment": {
+        "Nominative‑Accusative": {},
+        "Ergative‑Absolutive": {},
+        "Active‑Stative": {},
+        "Split‑Ergative": {}
+      },
+      "Agreement": {
+        "Subject‑Verb": {},
+        "Object‑Verb": {},
+        "Adjective‑Noun": {},
+        "Classifier Systems": {}
+      }
+    },
+
+    "Semantics": {
+      "Lexical": {
+        "Sense Relations": {
+          "Synonymy": {},
+          "Antonymy": {},
+          "Hyponymy": {},
+          "Meronymy": {}
+        },
+        "Polysemy": {},
+        "Homonymy": {}
+      },
+      "Compositional": {
+        "Predicate Logic": {},
+        "Lambda Calculus": {},
+        "Type Theory": {}
+      },
+      "Event Semantics": {
+        "Aktionsart": {
+          "State": {},
+          "Activity": {},
+          "Accomplishment": {},
+          "Achievement": {},
+          "Semelfactive": {}
+        },
+        "Aspect": {
+          "Perfective": {},
+          "Imperfective": {},
+          "Progressive": {}
+        }
+      },
+      "Modality & Evidentiality": {
+        "Epistemic": {},
+        "Deontic": {},
+        "Evidential": {
+          "Direct": {},
+          "Indirect": {},
+          "Inferential": {}
+        }
+      }
+    },
+
+    "Pragmatics & Discourse": {
+      "Speech Acts": {
+        "Assertive": {},
+        "Directive": {},
+        "Commissive": {},
+        "Expressive": {},
+        "Declarative": {}
+      },
+      "Information Structure": {
+        "Topic": {},
+        "Focus": {},
+        "Contrast": {},
+        "Background": {}
+      },
+      "Cohesion Mechanisms": {
+        "Reference": {
+          "Anaphora": {},
+          "Cataphora": {}
+        },
+        "Ellipsis": {},
+        "Substitution": {}
+      },
+      "Discourse Relations": {
+        "Cause": {},
+        "Condition": {},
+        "Contrast": {},
+        "Elaboration": {},
+        "Narration": {}
+      },
+      "Register & Politeness": {
+        "Formal": {},
+        "Informal": {},
+        "Honorifics": {},
+        "Speech Levels": {}
+      }
+    },
+
+    "Writing Systems": {
+      "Script Families": {
+        "Latin": {},
+        "Cyrillic": {},
+        "Arabic": {},
+        "Devanagari": {},
+        "Han": {},
+        "Hangul": {}
+      },
+      "Types": {
+        "Alphabet": {},
+        "Abjad": {},
+        "Abugida": {},
+        "Syllabary": {},
+        "Logographic": {}
+      },
+      "Orthography": {
+        "Shallow": {},
+        "Deep": {},
+        "Diacritics": {}
+      },
+      "Directionality": {
+        "Left‑to‑Right": {},
+        "Right‑to‑Left": {},
+        "Top‑to‑Bottom": {},
+        "Boustrophedon": {}
+      }
+    }
+  }
+}

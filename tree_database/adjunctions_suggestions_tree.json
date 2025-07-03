@@ -1,0 +1,42 @@
+{
+  "Adjunctions": {
+    "Probability & Measure Adjunctions": {
+      "Conditional Expectation ⊣ Inclusion of Sub-σ-Algebra": {},
+      "Covariance Operator ⊣ Tensor Contraction": {},
+      "Convolution ⊣ Mellin Transform": {}
+    },
+    "Information Theory Adjunctions": {
+      "Encoding Functor ⊣ Decoding Functor": {},
+      "Source Coding ⊣ Channel Capacity": {}
+    },
+    "Signal Processing Adjunctions": {
+      "Sampling ⊣ Interpolation (Shannon)": {},
+      "Filter Design ⊣ Frequency Response Mapping": {}
+    },
+    "Optimization Adjunctions": {
+      "Primal Problem ⊣ Dual Problem (Fenchel–Legendre)": {},
+      "Constraint Qualification ⊣ Lagrange Multiplier": {}
+    },
+    "Category Theory Extensions": {
+      "Kan Extension (Left/Right)": {
+        "Left Kan ⊣ Pullback": {},
+        "Right Kan ⊣ Pushforward": {}
+      },
+      "Profuctor Composition (Coend)": {},
+      "Adjoint Functor Theorem Context": {}
+    },
+    "Functional Programming Adjunctions": {
+      "Reader Monad ⊣ Store Comonad": {},
+      "Writer Monad ⊣ Cofree Comonad": {}
+    },
+    "Geometry & Analysis Adjunctions": {
+      "Gradient ⊣ Divergence (Integration by Parts)": {},
+      "Exterior Derivative ⊣ Hodge Star Codifferential": {},
+      "Laplace Transform ⊣ Inverse Laplace": {}
+    },
+    "Logic & Type Theory Adjunctions": {
+      "Curry–Howard Isomorphism (Proof ⊣ Program)": {},
+      "Modal Necessity ⊣ Possibility (Adjoint Modalities)": {}
+    }
+  }
+}

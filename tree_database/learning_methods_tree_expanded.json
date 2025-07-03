@@ -1,0 +1,258 @@
+{
+  "Learning Methods": {
+    "Machine Learning Paradigms": {
+      "Supervised Learning": {
+        "Classification": {
+          "Binary": {
+            "Logistic Regression": {},
+            "Support Vector Machine": {}
+          },
+          "Multi‑Class": {
+            "Softmax Regression": {},
+            "Decision Tree": {},
+            "Random Forest": {}
+          },
+          "Multi‑Label": {
+            "Sigmoid Cross‑Entropy": {},
+            "Classifier Chains": {}
+          }
+        },
+        "Regression": {
+          "Linear": {
+            "OLS": {},
+            "Ridge": {},
+            "Lasso": {}
+          },
+          "Non‑Linear": {
+            "Kernel Methods": {},
+            "Gradient Boosting": {}
+          }
+        },
+        "Sequence Prediction": {
+          "RNN": {},
+          "Transformer": {},
+          "CRF": {}
+        },
+        "Structured Output": {
+          "Image Segmentation": {},
+          "Machine Translation": {}
+        }
+      },
+
+      "Unsupervised Learning": {
+        "Clustering": {
+          "Partitioning": {
+            "K‑Means": {},
+            "K‑Medoids": {}
+          },
+          "Hierarchical": {
+            "Agglomerative": {},
+            "Divisive": {}
+          },
+          "Density‑Based": {
+            "DBSCAN": {},
+            "HDBSCAN": {}
+          }
+        },
+        "Dimensionality Reduction": {
+          "Linear": {
+            "PCA": {},
+            "ICA": {}
+          },
+          "Non‑Linear": {
+            "t‑SNE": {},
+            "UMAP": {}
+          },
+          "Autoencoder": {
+            "Denoising": {},
+            "Variational": {}
+          }
+        },
+        "Generative Modeling": {
+          "GAN": {
+            "StyleGAN": {},
+            "CycleGAN": {}
+          },
+          "Flow‑Based": {
+            "RealNVP": {},
+            "Glow": {}
+          },
+          "VAEs": {}
+        }
+      },
+
+      "Self‑Supervised Learning": {
+        "Contrastive": {
+          "SimCLR": {},
+          "MoCo": {},
+          "BYOL": {}
+        },
+        "Masked Modeling": {
+          "BERT": {},
+          "MAE": {}
+        },
+        "Predictive Coding": {}
+      },
+
+      "Reinforcement Learning": {
+        "Model‑Free": {
+          "Value‑Based": {
+            "DQN": {},
+            "Double DQN": {}
+          },
+          "Policy Gradient": {
+            "REINFORCE": {},
+            "PPO": {}
+          }
+        },
+        "Model‑Based": {
+          "World Models": {},
+          "MCTS": {}
+        },
+        "Multi‑Agent RL": {
+          "Self‑Play": {},
+          "Co‑operative": {}
+        },
+        "Hierarchical RL": {}
+      },
+
+      "Meta‑Learning": {
+        "Gradient‑Based": {
+          "MAML": {},
+          "Reptile": {}
+        },
+        "Metric‑Based": {
+          "Prototypical Net": {},
+          "Matching Net": {}
+        },
+        "Optimizer‑Based": {
+          "Learned Optimizer": {}
+        }
+      },
+
+      "Active Learning": {
+        "Uncertainty Sampling": {},
+        "Query‑By‑Committee": {},
+        "Expected Model Change": {}
+      },
+
+      "Online & Continual Learning": {
+        "Incremental Update": {},
+        "Replay Buffer": {},
+        "Regularization‑Based": {}
+      },
+
+      "Hybrid & Emerging ML": {
+        "Neuro‑Symbolic": {},
+        "Federated": {},
+        "Edge/TinyML": {}
+      }
+    },
+
+    "Human Learning Strategies": {
+      "Natural Learning": {
+        "Embodied Exploration": {
+          "Sensorimotor Play": {
+            "Grasp Reflex": {},
+            "Locomotor Exploration": {}
+          },
+          "Affordance Discovery": {
+            "Object Manipulation": {},
+            "Tool Use Emergence": {}
+          }
+        },
+        "Observational & Imitative": {
+          "Joint Attention": {
+            "Gaze Following": {},
+            "Pointing Comprehension": {}
+          },
+          "Mimicry": {
+            "Facial Imitation": {},
+            "Gesture Copying": {}
+          },
+          "Demonstration Learning": {
+            "Imitation Learning": {},
+            "Emulation": {}
+          }
+        },
+        "Social Learning": {
+          "Peer Modeling": {
+            "Collaborative Problem Solve": {},
+            "Reciprocal Teaching": {}
+          },
+          "Scaffolding": {
+            "Guided Participation": {},
+            "Fade‑Out Support": {}
+          },
+          "Zone of Proximal Development": {
+            "Challenge Point": {},
+            "Contingent Feedback": {}
+          }
+        },
+        "Language Acquisition": {
+          "Statistical Learning": {
+            "Distributional Cues": {},
+            "Co‑Occurrence": {}
+          },
+          "Phoneme Discrimination": {
+            "Categorical Perception": {},
+            "Motherese Tuning": {}
+          },
+          "Grammar Induction": {
+            "Syntactic Bootstrapping": {},
+            "Semantic Bootstrapping": {}
+          }
+        },
+        "Implicit Learning": {
+          "Procedural Memory": {
+            "Motor Skill": {},
+            "Sequence Learning": {}
+          },
+          "Habituation": {},
+          "Classical Conditioning": {}
+        },
+        "Curiosity‑Driven": {
+          "Novelty Seeking": {},
+          "Information Gap Reduction": {},
+          "Intrinsic Motivation": {}
+        },
+        "Play‑Based": {
+          "Pretend Play": {},
+          "Rule Discovery Games": {},
+          "Exploratory Toy Interaction": {}
+        }
+      },
+
+      "Formal Education": {
+        "Lecture": {},
+        "Seminar": {},
+        "Laboratory": {},
+        "Problem‑Based": {}
+      },
+
+      "Self‑Directed Learning": {
+        "Reading": {},
+        "Online Courses": {},
+        "Deliberate Practice": {}
+      },
+
+      "Experiential Learning": {
+        "Apprenticeship": {},
+        "Internship": {},
+        "Field Work": {}
+      },
+
+      "Collaborative Learning": {
+        "Peer Instruction": {},
+        "Study Group": {},
+        "Project Team": {}
+      },
+
+      "Instructional Design": {
+        "Spaced Repetition": {},
+        "Interleaved Practice": {},
+        "Gamification": {}
+      }
+    }
+  }
+}

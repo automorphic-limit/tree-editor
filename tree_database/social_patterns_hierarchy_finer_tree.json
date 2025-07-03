@@ -1,0 +1,481 @@
+{
+  "Social Patterns": {
+    "Universal Levels": {
+      "Individual": {},
+      "Dyad": {
+        "Pair Bond": {
+          "Monogamous": {},
+          "Seasonal": {},
+          "Lifetime": {}
+        },
+        "Mutualistic Dyad": {},
+        "Parasitic Pair": {},
+        "Symbiotic Dyad": {}
+      },
+      "Small Group": {
+        "Family": {
+          "Parent-Offspring": {},
+          "Sibling": {},
+          "Mating Pair + Offspring": {}
+        },
+        "Coalition": {
+          "Alliance": {},
+          "Clique": {}
+        },
+        "Hunting Party": {
+          "Persistence Hunt": {},
+          "Ambush": {}
+        }
+      },
+      "Medium Group": {
+        "Pack": {
+          "Alpha Pair": {},
+          "Subordinate": {},
+          "Juvenile": {}
+        },
+        "Pod": {
+          "Matriarch": {},
+          "Subpod": {}
+        },
+        "Flock": {
+          "Murmer": {},
+          "Roost": {}
+        },
+        "School": {
+          "Polarized": {},
+          "Non‑Polarized": {}
+        },
+        "Herd": {
+          "Bachelor Herd": {},
+          "Mixed Herd": {}
+        }
+      },
+      "Large Aggregation": {
+        "Colony": {
+          "Roosting": {},
+          "Nesting": {},
+          "Breeding": {}
+        },
+        "Guild": {
+          "Feeding Guild": {},
+          "Functional Guild": {}
+        },
+        "Swarm": {
+          "Locust Swarm": {},
+          "Bee Swarm": {}
+        },
+        "Murmuration": {}
+      },
+      "Super-Organism": {
+        "Eusocial Colony": {
+          "Queen": {},
+          "Worker": {},
+          "Soldier": {}
+        },
+        "Coral Polyps": {},
+        "Siphonophore Unit": {}
+      },
+      "Ecosystem Network": {
+        "Trophic Web": {
+          "Producers": {},
+          "Consumers": {},
+          "Decomposers": {}
+        },
+        "Nutrient Cycle": {
+          "Nitrogen Cycle": {},
+          "Carbon Cycle": {},
+          "Water Cycle": {}
+        }
+      }
+    },
+
+    "Human Systems": {
+      "Kinship & Family": {
+        "Household": {},
+        "Nuclear Family": {},
+        "Extended Family": {},
+        "Clan / Lineage": {},
+        "Descent System": {
+          "Patrilineal": {},
+          "Matrilineal": {},
+          "Bilateral": {},
+          "Ambilineal": {}
+        },
+        "Marriage Systems": {
+          "Monogamy": {},
+          "Polygyny": {},
+          "Polyandry": {},
+          "Group Marriage": {},
+          "Serial Monogamy": {},
+          "Arranged Marriage": {},
+          "Same‑Sex Union": {}
+        }
+      },
+      "Socio-Political Organization": {
+        "Band": {},
+        "Tribe": {},
+        "Chiefdom": {},
+        "State": {
+          "City-State": {},
+          "Nation-State": {
+            "Unitary": {},
+            "Federal": {}
+          },
+          "Empire": {},
+          "Confederation": {}
+        },
+        "Supranational Bloc": {
+          "Economic Union": {},
+          "Military Alliance": {},
+          "Political Union": {}
+        }
+      },
+      "Governance Structures": {
+        "Autocracy": {
+          "Absolute Monarchy": {},
+          "Personalist Regime": {}
+        },
+        "Oligarchy": {
+          "Aristocracy": {},
+          "Plutocracy": {}
+        },
+        "Democracy": {
+          "Direct": {},
+          "Representative": {
+            "Presidential": {},
+            "Parliamentary": {}
+          }
+        },
+        "Technocracy": {},
+        "Bureaucracy": {
+          "Meritocratic": {},
+          "Patronage": {}
+        },
+        "Gerontocracy": {}
+      },
+      "Economic Organization": {
+        "Subsistence": {
+          "Foraging": {},
+          "Pastoralism": {},
+          "Horticulture": {},
+          "Intensive Agriculture": {}
+        },
+        "Market Systems": {
+          "Capitalist": {},
+          "Mixed Economy": {},
+          "Command Economy": {},
+          "Gift Economy": {}
+        },
+        "Labor Division": {
+          "Caste": {
+            "Brahmin": {},
+            "Kshatriya": {},
+            "Vaishya": {},
+            "Shudra": {}
+          },
+          "Class": {
+            "Underclass": {},
+            "Working": {},
+            "Middle": {},
+            "Upper": {},
+            "Elite": {}
+          },
+          "Profession": {
+            "Guild": {},
+            "Trade Union": {}
+          }
+        }
+      },
+      "Institutional Structures": {
+        "Political Institution": {
+          "Legislature": {},
+          "Executive": {},
+          "Judiciary": {}
+        },
+        "Legal System": {
+          "Common Law": {},
+          "Civil Law": {},
+          "Religious Law": {},
+          "Customary Law": {}
+        },
+        "Religious Institution": {
+          "Hierarchy": {
+            "Clergy": {},
+            "Laity": {}
+          },
+          "Congregation": {}
+        },
+        "Educational Institution": {
+          "Primary School": {},
+          "Secondary School": {},
+          "University": {},
+          "Vocational College": {}
+        },
+        "Healthcare System": {
+          "Hospital": {},
+          "Clinic": {},
+          "Public Health Agency": {},
+          "Traditional Healer": {}
+        }
+      },
+      "Organizational Forms": {
+        "Corporation": {
+          "Functional": {},
+          "Divisional": {},
+          "Matrix": {},
+          "Flat": {},
+          "Holacracy": {}
+        },
+        "Non-Profit": {
+          "Charity": {},
+          "NGO": {}
+        },
+        "Co-operative": {},
+        "DAO (Blockchain)": {},
+        "Open‑Source Community": {}
+      },
+      "Urban & Network Scales": {
+        "Hamlet": {},
+        "Village": {},
+        "Town": {},
+        "City": {},
+        "Metropolis": {},
+        "Megalopolis": {},
+        "Global City": {}
+      }
+    },
+
+    "Animal Social Systems": {
+      "Mammals": {
+        "Primates": {
+          "Solitary": {
+            "Orangutan": {},
+            "Lorises": {}
+          },
+          "One-Male Unit": {
+            "Gorilla Troop": {}
+          },
+          "Multi-Male Multi-Female": {
+            "Macaque Troop": {}
+          },
+          "Fission-Fusion": {
+            "Chimpanzee Community": {},
+            "Spider Monkey": {}
+          },
+          "Dominance Hierarchy": {
+            "Linear": {},
+            "Despotic": {},
+            "Egalitarian": {}
+          }
+        },
+        "Carnivores": {
+          "Pack Hunting": {
+            "Wolf Pack": {},
+            "African Wild Dog": {}
+          },
+          "Pride Structure": {
+            "Lion Pride": {}
+          },
+          "Solitary": {
+            "Tiger": {},
+            "Leopard": {}
+          }
+        },
+        "Ungulates": {
+          "Harem Herd": {
+            "Zebra": {},
+            "Red Deer": {}
+          },
+          "Lekking": {
+            "Topi": {},
+            "Ugandan Kob": {}
+          }
+        },
+        "Cetaceans": {
+          "Matriarchal Pod": {
+            "Resident Orca": {}
+          },
+          "Bachelor Group": {
+            "Sperm Whale": {}
+          },
+          "Alliance": {
+            "Bottlenose Dolphin": {}
+          }
+        },
+        "Chiroptera": {
+          "Maternity Colony": {},
+          "Satellite Male": {},
+          "Harem Roost": {}
+        }
+      },
+      "Birds": {
+        "Pair‑Bond Monogamy": {
+          "Albatross": {},
+          "Swan": {}
+        },
+        "Co-operative Breeding": {
+          "Florida Scrub Jay": {},
+          "Meerkat Sentinel": {}
+        },
+        "Colonial Nesting": {
+          "Seabird Colony": {},
+          "Penguin Rookery": {}
+        },
+        "Lek Mating": {
+          "Sage Grouse": {},
+          "Bird of Paradise": {}
+        },
+        "Mixed-Species Flocking": {
+          "Rainforest Foraging": {}
+        }
+      },
+      "Insects & Arachnids": {
+        "Eusocial": {
+          "Ant": {
+            "Leafcutter": {},
+            "Army": {}
+          },
+          "Bee": {
+            "Honey Bee": {},
+            "Stingless Bee": {}
+          },
+          "Termite": {
+            "Macrotermes": {},
+            "Nasutitermes": {}
+          },
+          "Paper Wasp": {}
+        },
+        "Subsocial": {
+          "Passalid Beetle": {},
+          "Some Spiders": {}
+        },
+        "Aggregation": {
+          "Ladybird Overwinter": {}
+        },
+        "Parasitoid": {
+          "Ichneumon Wasp": {}
+        }
+      },
+      "Fish": {
+        "Schooling": {
+          "Anchovy": {},
+          "Sardine": {}
+        },
+        "Shoaling": {
+          "Guppy": {}
+        },
+        "Haremic": {
+          "Wrasse": {}
+        },
+        "Protogynous": {
+          "Clownfish Hierarchy": {}
+        }
+      },
+      "Reptiles & Amphibians": {
+        "Loose Aggregation": {
+          "Iguana Basking": {}
+        },
+        "Parental Guarding": {
+          "Poison Dart Frog": {}
+        },
+        "Communal Nesting": {
+          "Sea Turtle": {}
+        }
+      }
+    },
+
+    "Plant & Fungal Interactions": {
+      "Clonal Colonies": {
+        "Pando Aspen": {},
+        "Clonal Redwood": {}
+      },
+      "Mycorrhizal Networks": {
+        "Ectomycorrhiza": {},
+        "Arbuscular": {},
+        "Ericoid": {}
+      },
+      "Facilitation": {
+        "Nurse Tree": {},
+        "Shelterbelt": {}
+      },
+      "Competition": {
+        "Allelopathy": {
+          "Black Walnut Juglone": {}
+        },
+        "Shade Dominance": {}
+      }
+    },
+
+    "Microbial Communities": {
+      "Biofilm": {
+        "Dental Plaque": {},
+        "Pond Biofilm": {}
+      },
+      "Quorum Sensing": {
+        "LuxR‑LuxI": {},
+        "AI‑2": {}
+      },
+      "Syntrophy": {
+        "Methanogen Consortium": {}
+      },
+      "Microbiome Guild": {
+        "Gut Microbiota": {},
+        "Rhizosphere": {}
+      },
+      "Phage‑Bacteria": {
+        "Lysogenic Cycle": {},
+        "Lytic Cycle": {}
+      },
+      "CRISPR Defense": {}
+    },
+
+    "Symmetry Across Life": {
+      "Hierarchy Patterns": {
+        "Dominance Ladder": {
+          "Despotic": {},
+          "Linear": {}
+        },
+        "Caste Division": {
+          "Reproductive": {},
+          "Worker": {},
+          "Soldier": {}
+        },
+        "Task Allocation": {
+          "Age Polyethism": {},
+          "Morphological Caste": {}
+        }
+      },
+      "Network Topologies": {
+        "Centralized": {
+          "Alpha Hub": {}
+        },
+        "Modular": {
+          "Sub‑Clan": {}
+        },
+        "Distributed": {},
+        "Scale‑Free": {}
+      },
+      "Interaction Modes": {
+        "Co-operation": {
+          "Reciprocal": {},
+          "Kin Selection": {}
+        },
+        "Competition": {},
+        "Mutualism": {},
+        "Commensalism": {},
+        "Parasitism": {},
+        "Predation": {}
+      },
+      "Communication Channels": {
+        "Chemical": {
+          "Pheromone": {},
+          "Allelochemical": {}
+        },
+        "Acoustic": {},
+        "Visual": {},
+        "Electrical": {},
+        "Vibrational": {}
+      }
+    }
+  }
+}

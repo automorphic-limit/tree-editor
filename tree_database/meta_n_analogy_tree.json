@@ -1,0 +1,38 @@
+{
+  "Meta^N Analogies": {
+    "Level‑0 (Object Analogies)": {
+      "Concrete Analogies": {},
+      "Abstract Analogies": {}
+    },
+
+    "Level‑1 (Analogies of Analogies)": {
+      "Meta‑Analogies": {},
+      "Evaluation of Analogies": {}
+    },
+
+    "Level‑2 (Analogies of Meta‑Analogies)": {
+      "Meta² Retrieval vs Alignment": {},
+      "Meta² Structural vs Functional": {}
+    },
+
+    "Level‑K (Recursive Schema)": {
+      "K‑th Layer Nodes": {
+        "Meta^K Source Domain": {},
+        "Meta^K Target Domain": {}
+      },
+      "K‑to‑K+1 Functor": {},
+      "K‑1 Reflection": {}
+    },
+
+    "Transfinite Horizon": {
+      "ω‑Chain of Analogies": {
+        "Limit Stage": {},
+        "Colimit Analogy": {}
+      },
+      "Fixed‑Point Analogy": {
+        "Self‑Referential Mapping": {},
+        "Strange Loop": {}
+      }
+    }
+  }
+}

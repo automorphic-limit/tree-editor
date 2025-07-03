@@ -1,0 +1,653 @@
+{
+  "Foundations": {
+    "Logic & Computability": {
+      "Set Theory": {
+        "Axiomatic Systems": {
+          "ZFC": {},
+          "Alternative Set Theories": {
+            "NFU": {},
+            "Tarski–Grothendieck": {}
+          }
+        },
+        "Cardinality": {
+          "Countable Sets": {
+            "Enumerations": {
+              "Recursive Enumerations": {}
+            }
+          },
+          "Continuum": {
+            "Continuum Hypothesis": {}
+          }
+        }
+      },
+      "Type Theory": {
+        "Simply Typed Lambda Calculus": {
+          "Curry‑Howard Isomorphism": {}
+        },
+        "Dependent Type Theory": {
+          "Proof Assistants": {
+            "Coq": {
+              "Tactics": {}
+            },
+            "Agda": {}
+          }
+        }
+      },
+      "Lambda Calculus": {
+        "Untyped Lambda Calculus": {},
+        "Reductions": {
+          "Beta Reduction": {},
+          "Eta Conversion": {}
+        }
+      },
+      "Constructive Logic": {}
+    },
+    "Abstract Algebra": {
+      "Number Theory": {
+        "Prime Numbers": {
+          "Primality Testing": {},
+          "Prime Factorization": {},
+          "Cryptographic Primes": {}
+        },
+        "Modular Arithmetic": {
+          "Residue Classes": {},
+          "Chinese Remainder Theorem": {}
+        }
+      },
+      "Group Theory": {
+        "Symmetry Groups": {
+          "Cyclic Groups": {},
+          "Dihedral Groups": {},
+          "Lie Groups": {
+            "SU(n)": {},
+            "SO(n)": {}
+          }
+        },
+        "Representation Theory": {
+          "Characters": {},
+          "Young Tableaux": {},
+          "Quantum Groups": {}
+        }
+      },
+      "Ring & Field Theory": {
+        "Polynomial Rings": {},
+        "Galois Extensions": {},
+        "Finite Fields": {}
+      }
+    },
+    "Category Theory": {
+      "Functoriality": {
+        "Natural Transformations": {},
+        "Adjunctions": {},
+        "Monoidal Categories": {
+          "Braided Monoidal": {},
+          "Symmetric Monoidal": {}
+        }
+      },
+      "Higher Categories": {
+        "Infinity‑Categories": {},
+        "Operads": {},
+        "Cobordism Hypothesis": {
+          "Fully Extended TQFT": {}
+        }
+      },
+      "Topos Theory": {
+        "Sheaves": {
+          "Grothendieck Topologies": {}
+        },
+        "Internal Logic": {}
+      }
+    },
+    "Model & Proof Theory": {
+      "Proof Theory": {
+        "Sequent Calculus": {},
+        "Natural Deduction": {}
+      },
+      "Model Theory": {
+        "Ultraproducts": {},
+        "O‑Minimality": {}
+      }
+    }
+  },
+
+  "Mathematical Structures": {
+    "Geometry": {
+      "Differential Geometry": {
+        "Riemannian Geometry": {
+          "Curvature": {
+            "Ricci Curvature": {},
+            "Scalar Curvature": {}
+          },
+          "Geodesics": {},
+          "Gauge Connections": {}
+        },
+        "Symplectic Geometry": {
+          "Hamiltonian Systems": {},
+          "Moment Maps": {}
+        }
+      },
+      "Algebraic Geometry": {
+        "Schemes": {},
+        "Moduli Spaces": {},
+        "Calabi‑Yau Manifolds": {
+          "Mirror Symmetry": {},
+          "Hodge Numbers": {}
+        }
+      },
+      "Non‑Euclidean Geometry": {
+        "Hyperbolic Geometry": {},
+        "Projective Geometry": {},
+        "Fractal Geometry": {
+          "Mandelbrot Set": {},
+          "Dimension Theory": {}
+        }
+      }
+    },
+    "Topology": {
+      "Homotopy & Cohomology": {
+        "Fundamental Group": {},
+        "Spectral Sequences": {
+          "E2 Page": {},
+          "Convergence": {},
+          "Adams Spectral Sequence": {}
+        },
+        "Characteristic Classes": {
+          "Chern Classes": {},
+          "Pontryagin Classes": {}
+        },
+        "Sheaf Theory": {
+          "Derived Categories": {}
+        }
+      },
+      "Persistent Homology": {
+        "Barcodes": {
+          "Persistence Diagrams": {}
+        },
+        "Mapper Algorithm": {},
+        "Topological Data Analysis": {}
+      }
+    },
+    "Analysis": {
+      "Fourier Analysis": {
+        "Fourier Series": {
+          "Parseval's Theorem": {}
+        },
+        "Wavelet Analysis": {},
+        "Uncertainty Principle": {}
+      },
+      "Functional Analysis": {
+        "Banach Spaces": {
+          "Lp Spaces": {},
+          "Sobolev Spaces": {}
+        },
+        "Hilbert Spaces": {}
+      }
+    }
+  },
+
+  "Physical Sciences": {
+    "Quantum & Particle Physics": {
+      "Particles": {
+        "Fermions": {
+          "Leptons": {
+            "Electrons": {},
+            "Neutrinos": {}
+          },
+          "Quarks": {
+            "Up/Down": {},
+            "Charm/Strange": {},
+            "Top/Bottom": {}
+          }
+        },
+        "Bosons": {
+          "Gauge Bosons": {
+            "Photon": {},
+            "W/Z": {},
+            "Gluon": {}
+          },
+          "Higgs Boson": {}
+        }
+      },
+      "Quantum Mechanics": {
+        "Schrödinger Equation": {},
+        "Heisenberg Picture": {},
+        "Path Integral Formalism": {
+          "Feynman Diagrams": {}
+        },
+        "Interpretations": {
+          "Copenhagen": {},
+          "Many‑Worlds": {},
+          "Pilot‑Wave": {},
+          "QBism": {}
+        }
+      },
+      "Quantum Field Theory": {
+        "Gauge Theories": {
+          "Standard Model": {
+            "Electroweak Theory": {},
+            "Quantum Chromodynamics": {}
+          },
+          "Grand Unified Theories": {
+            "SU(5)": {},
+            "SO(10)": {}
+          }
+        },
+        "Renormalization": {
+          "RG Flow": {},
+          "Wilsonian RG": {},
+          "Anomalies": {}
+        }
+      }
+    },
+    "Electromagnetism & Photonics": {
+      "Electromagnetic Fields": {
+        "Maxwell’s Equations": {},
+        "Lorentz Force": {}
+      },
+      "Photons": {
+        "Laser Physics": {
+          "Stimulated Emission": {},
+          "Mode Locking": {},
+          "Frequency Combs": {}
+        },
+        "Non‑linear Optics": {
+          "Second Harmonic Generation": {}
+        }
+      },
+      "Quantum Optics": {
+        "Entangled Photons": {},
+        "Quantum Key Distribution": {}
+      },
+      "Telecommunications": {
+        "Fiber Optics": {},
+        "Satellite Links": {},
+        "5G Networks": {}
+      }
+    },
+    "Statistical & Thermal Physics": {
+      "Thermodynamics": {
+        "Laws": {
+          "0th Law": {},
+          "1st Law": {},
+          "2nd Law": {},
+          "3rd Law": {}
+        },
+        "Free Energy": {},
+        "Non‑Equilibrium Thermodynamics": {}
+      },
+      "Phase Transitions": {
+        "Critical Phenomena": {
+          "Scaling Laws": {},
+          "Universality Classes": {}
+        },
+        "Bose‑Einstein Condensate": {},
+        "Kosterlitz‑Thouless Transition": {}
+      }
+    },
+    "Condensed Matter": {
+      "Topological Insulators": {
+        "Quantum Spin Hall": {},
+        "Axion Insulator": {},
+        "Chern Number": {}
+      },
+      "Superconductivity": {
+        "BCS Theory": {},
+        "High‑Tc Cuprates": {},
+        "Meissner Effect": {}
+      },
+      "Soft Matter": {
+        "Colloids": {},
+        "Liquid Crystals": {},
+        "Gels": {}
+      }
+    },
+    "Fluid & Plasma Dynamics": {
+      "Fluid Dynamics": {
+        "Laminar Flow": {},
+        "Turbulence": {
+          "Reynolds Number": {},
+          "Kolmogorov Cascade": {},
+          "Energy Spectrum": {}
+        }
+      },
+      "Geophysical Flows": {
+        "Ocean Currents": {},
+        "Atmospheric Circulation": {},
+        "Instabilities": {}
+      },
+      "Plasma Physics": {
+        "Magnetohydrodynamics": {},
+        "Tokamak Confinement": {
+          "ITER": {}
+        }
+      }
+    }
+  },
+
+  "Life Sciences": {
+    "Biochemistry": {
+      "Functional Groups": {
+        "Hydroxyl": {},
+        "Carbonyl": {},
+        "Amine": {},
+        "Phosphate": {},
+        "Thiol": {}
+      },
+      "Metabolic Pathways": {
+        "Glycolysis": {},
+        "Citric Acid Cycle": {},
+        "Oxidative Phosphorylation": {},
+        "Pentose Phosphate Pathway": {}
+      },
+      "Enzyme Kinetics": {
+        "Michaelis‑Menten": {},
+        "Allosteric Regulation": {},
+        "Enzyme Inhibition": {}
+      }
+    },
+    "Molecular Biology": {
+      "Amino Acids": {
+        "Essential": {},
+        "Non‑Essential": {}
+      },
+      "Proteins": {
+        "Primary Structure": {},
+        "Secondary Structure": {
+          "Alpha Helix": {},
+          "Beta Sheet": {
+            "Parallel": {},
+            "Antiparallel": {}
+          }
+        },
+        "Tertiary Structure": {},
+        "Quaternary Structure": {},
+        "Post‑Translational Modifications": {
+          "Phosphorylation": {},
+          "Glycosylation": {}
+        }
+      },
+      "Nucleic Acids": {
+        "DNA": {
+          "Replication": {},
+          "Epigenetics": {},
+          "CRISPR": {
+            "Cas9": {}
+          }
+        },
+        "RNA": {
+          "mRNA": {},
+          "tRNA": {},
+          "RNA Interference": {}
+        }
+      },
+      "Supramolecular Assemblies": {
+        "Ribosomes": {},
+        "Chromatin": {},
+        "Microtubules": {}
+      }
+    },
+    "Cellular Biology": {
+      "Organelles": {
+        "Mitochondria": {},
+        "Golgi Apparatus": {},
+        "Endoplasmic Reticulum": {}
+      },
+      "Cell Cycle": {
+        "Mitosis": {},
+        "Apoptosis": {},
+        "Checkpoints": {}
+      }
+    },
+    "Neuroscience": {
+      "Neural Coding": {
+        "Rate Coding": {},
+        "Population Coding": {},
+        "Neural Oscillations": {}
+      },
+      "Synaptic Plasticity": {
+        "LTP": {},
+        "LTD": {}
+      },
+      "Cognitive Models": {
+        "Predictive Coding": {},
+        "Bayesian Brain": {},
+        "Free Energy Principle": {}
+      },
+      "Neurotransmitters": {
+        "Glutamate": {},
+        "GABA": {},
+        "Dopamine": {}
+      }
+    }
+  },
+
+  "Computational Sciences": {
+    "Information Theory": {
+      "Entropy": {
+        "Shannon Entropy": {},
+        "Kolmogorov Complexity": {},
+        "Mutual Information": {}
+      },
+      "Channel Capacity": {
+        "Shannon‑Hartley": {}
+      },
+      "Error Correction": {
+        "Hamming Codes": {},
+        "LDPC Codes": {},
+        "Reed‑Solomon Codes": {}
+      }
+    },
+    "Graph Theory": {
+      "Connectivity": {
+        "Small‑World Networks": {},
+        "Scale‑Free Networks": {},
+        "Percolation": {}
+      },
+      "Graph Algorithms": {
+        "Shortest Path": {},
+        "Max Flow": {}
+      },
+      "Graph Neural Networks": {
+        "GAT": {},
+        "GraphSAGE": {}
+      }
+    },
+    "Neural Networks & AI": {
+      "Deep Learning": {
+        "CNNs": {
+          "ResNet": {}
+        },
+        "RNNs": {
+          "LSTM": {}
+        },
+        "Transformers": {
+          "Attention": {}
+        },
+        "Self‑Supervised Learning": {}
+      },
+      "Generative Models": {
+        "GANs": {
+          "StyleGAN": {}
+        },
+        "VAEs": {}
+      },
+      "Reinforcement Learning": {
+        "Q‑Learning": {},
+        "Policy Gradients": {}
+      },
+      "Explainable AI": {
+        "Feature Attribution": {}
+      }
+    },
+    "Cryptography & Blockchain": {
+      "Public‑Key Cryptography": {
+        "RSA": {},
+        "ECC": {},
+        "Post‑Quantum Crypto": {}
+      },
+      "Zero‑Knowledge Proofs": {},
+      "Homomorphic Encryption": {},
+      "Consensus Mechanisms": {
+        "Proof‑of‑Work": {},
+        "Proof‑of‑Stake": {}
+      },
+      "Smart Contracts": {}
+    },
+    "Complexity Theory": {
+      "P vs NP": {},
+      "NP‑Complete": {},
+      "Quantum Complexity": {}
+    },
+    "Algorithms": {
+      "Sorting": {},
+      "Optimization": {},
+      "Divide & Conquer": {},
+      "Dynamic Programming": {}
+    }
+  },
+
+  "Earth & Space Sciences": {
+    "Geology & Tectonics": {
+      "Plate Boundaries": {
+        "Divergent": {},
+        "Convergent": {},
+        "Transform": {}
+      },
+      "Seismology": {
+        "P‑Waves": {},
+        "S‑Waves": {},
+        "Earthquake Early Warning": {}
+      },
+      "Mineralogy": {
+        "Silicates": {},
+        "Carbonates": {},
+        "Ore Deposits": {}
+      },
+      "Volcanology": {}
+    },
+    "Planetary Science": {
+      "Planet Formation": {
+        "Accretion": {},
+        "Migration": {}
+      },
+      "Atmospheric Science": {
+        "Climate Modeling": {}
+      },
+      "Exoplanets": {
+        "Habitable Zone": {}
+      }
+    },
+    "Astrophysics": {
+      "Stellar Evolution": {
+        "Main Sequence": {},
+        "Supernova": {},
+        "Neutron Stars": {},
+        "White Dwarf": {}
+      },
+      "Cosmology": {
+        "Big Bang": {},
+        "Inflation": {},
+        "Dark Matter": {},
+        "Dark Energy": {},
+        "Gravitational Waves": {},
+        "Black Hole Thermodynamics": {}
+      }
+    },
+    "Climate Systems": {
+      "Jet Streams": {},
+      "El Niño–Southern Oscillation": {},
+      "Monsoon": {}
+    },
+    "Hydrology": {
+      "River Basins": {},
+      "Groundwater": {}
+    }
+  },
+
+  "Social & Cultural Sciences": {
+    "History & Cultural Evolution": {
+      "Classical Antiquity": {},
+      "Middle Ages": {},
+      "Industrial Revolution": {},
+      "Modern Era": {},
+      "Digital Age": {}
+    },
+    "Economics & Finance": {
+      "Microeconomics": {},
+      "Macroeconomics": {},
+      "Behavioral Economics": {},
+      "Game Theory": {},
+      "Agent‑Based Modeling": {
+        "Complex Adaptive Systems": {}
+      },
+      "Market Crashes": {},
+      "Cryptocurrency Markets": {}
+    },
+    "Political Science": {
+      "Governance Systems": {
+        "Democracy": {},
+        "Autocracy": {},
+        "Voting Systems": {}
+      },
+      "International Relations": {},
+      "Policy Networks": {
+        "Advocacy Coalitions": {}
+      }
+    },
+    "Sociology": {
+      "Social Networks": {},
+      "Urban Studies": {},
+      "Opinion Dynamics": {},
+      "Collective Behaviour": {},
+      "Social Capital": {}
+    },
+    "Linguistics": {
+      "Historical Linguistics": {},
+      "Phylogenetics": {},
+      "Syntax": {},
+      "Semantics": {}
+    },
+    "Epidemiology": {
+      "Disease Modeling": {},
+      "Vaccination Strategies": {}
+    }
+  },
+
+  "Aesthetic & Creative Arts": {
+    "Music & Harmonic Analysis": {
+      "Scales & Modes": {
+        "Pentatonic": {},
+        "Chromatic": {}
+      },
+      "Counterpoint": {},
+      "Spectral Music": {},
+      "Fractal Rhythms": {
+        "Euclidean Rhythms": {}
+      }
+    },
+    "Art & Aesthetics": {
+      "Color Theory": {},
+      "Symmetry in Art": {},
+      "Generative Art": {
+        "Algorithmic Composition": {}
+      },
+      "GAN Art": {},
+      "NFT Art": {}
+    },
+    "Architecture & Design": {
+      "Geometric Symmetry": {},
+      "Parametric Design": {},
+      "Biomimicry": {},
+      "Sustainable Architecture": {}
+    },
+    "Digital Media": {
+      "Interactive Installations": {},
+      "Virtual Reality Art": {},
+      "Augmented Reality": {}
+    },
+    "Film & Animation": {
+      "Computer Graphics": {},
+      "Motion Capture": {}
+    }
+  }
+}

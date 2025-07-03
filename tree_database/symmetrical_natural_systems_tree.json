@@ -1,0 +1,174 @@
+{
+  "Natural Systems (Symmetric)": {
+    "Atmosphere": {
+      "Structure": {
+        "Layers": {},
+        "Jet Streams": {}
+      },
+      "Dynamics": {
+        "Convection Cells": {
+          "Hadley": {},
+          "Ferrel": {},
+          "Polar": {}
+        },
+        "Atmospheric Waves": {
+          "Rossby": {},
+          "Gravity": {},
+          "Kelvin": {}
+        }
+      },
+      "Forcings": {
+        "Solar Heating": {},
+        "GHG Radiative": {}
+      },
+      "Feedbacks": {
+        "Cloud": {},
+        "Water‑Vapour": {}
+      },
+      "Diagnostics": {
+        "Reanalysis": {},
+        "Satellite Radiances": {}
+      },
+      "Events": {
+        "Tropical Cyclone": {},
+        "Blizzard": {}
+      }
+    },
+
+    "Hydrosphere": {
+      "Structure": {
+        "Surface Ocean": {},
+        "Deep Ocean": {},
+        "Groundwater": {}
+      },
+      "Dynamics": {
+        "Thermohaline Circulation": {},
+        "Gyres": {},
+        "Upwelling": {}
+      },
+      "Forcings": {
+        "Wind Stress": {},
+        "River Inflow": {}
+      },
+      "Feedbacks": {
+        "Evap‑Precip": {},
+        "Albedo": {}
+      },
+      "Diagnostics": {
+        "Argo Floats": {},
+        "Sea‑Level Gauges": {}
+      },
+      "Events": {
+        "Storm Surge": {},
+        "Marine Heatwave": {}
+      }
+    },
+
+    "Cryosphere": {
+      "Structure": {
+        "Ice Sheets": {},
+        "Glaciers": {},
+        "Sea Ice": {}
+      },
+      "Dynamics": {
+        "Ice Flow": {},
+        "Calving": {},
+        "Permafrost Thaw": {}
+      },
+      "Forcings": {
+        "Seasonal Insolation": {},
+        "Ocean Heat Flux": {}
+      },
+      "Feedbacks": {
+        "Ice‑Albedo": {},
+        "Meltwater Lubrication": {}
+      },
+      "Diagnostics": {
+        "GRACE Mass Balance": {},
+        "Remote Sensing Altimetry": {}
+      },
+      "Events": {
+        "Rapid Ice Shelf Collapse": {},
+        "Glacial Lake Outburst": {}
+      }
+    },
+
+    "Lithosphere": {
+      "Structure": {
+        "Crust": {},
+        "Mantle": {},
+        "Core": {}
+      },
+      "Dynamics": {
+        "Plate Motion": {},
+        "Mantle Convection": {}
+      },
+      "Forcings": {
+        "Tidal Stress": {},
+        "Radiogenic Heat": {}
+      },
+      "Feedbacks": {
+        "Silicate Weathering": {},
+        "Isostatic Adjustment": {}
+      },
+      "Diagnostics": {
+        "Seismic Tomography": {},
+        "GPS Geodesy": {}
+      },
+      "Events": {
+        "Earthquake": {},
+        "Volcanic Eruption": {}
+      }
+    },
+
+    "Biosphere": {
+      "Structure": {
+        "Biomes": {},
+        "Trophic Levels": {}
+      },
+      "Dynamics": {
+        "Succession": {},
+        "Migration": {}
+      },
+      "Forcings": {
+        "Sunlight": {},
+        "Nutrient Supply": {}
+      },
+      "Feedbacks": {
+        "Vegetation‑Climate": {},
+        "Carbon Sequestration": {}
+      },
+      "Diagnostics": {
+        "Remote Sensing NDVI": {},
+        "Biodiversity Surveys": {}
+      },
+      "Events": {
+        "Bloom": {},
+        "Die‑off": {}
+      }
+    },
+
+    "Couplings": {
+      "Energy": {
+        "Latent Heat Flux (Atmos↔Hydro)": {},
+        "Radiative Balance (Atmos↔Cryo)": {},
+        "Geothermal Heat (Litho↔Hydro)": {}
+      },
+      "Mass": {
+        "Water Cycle Transfers": {},
+        "Sediment Transport (Hydro↔Litho)": {},
+        "Carbon Flux (Bio↔Atmos)": {}
+      },
+      "Momentum": {
+        "Wind‑Driven Upwelling": {},
+        "Tidal Forcing (Hydro↔Litho)": {},
+        "Drag Feedback (Bio↔Atmos)": {}
+      },
+      "Biogeochemical": {
+        "Silicate Weathering CO2 Sink": {},
+        "Nitrogen Fixation (Bio↔Atmos)": {},
+        "Methane Clathrate Release (Cryo↔Hydro)": {}
+      }
+    }
+  }
+}

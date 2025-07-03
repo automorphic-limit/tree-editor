@@ -1,0 +1,296 @@
+{
+  "Life": {
+    "Bacteria": {
+      "Proteobacteria": {
+        "Alpha": {
+          "Rhizobiales": {
+            "Bradyrhizobiaceae": {
+              "Bradyrhizobium": {}
+            },
+            "Rhizobiaceae": {
+              "Rhizobium": {}
+            }
+          },
+          "Rickettsiales": {
+            "Rickettsiaceae": {
+              "Rickettsia": {}
+            }
+          }
+        },
+        "Beta": {
+          "Burkholderiales": {
+            "Burkholderiaceae": {
+              "Burkholderia": {}
+            }
+          }
+        },
+        "Gamma": {
+          "Enterobacterales": {
+            "Enterobacteriaceae": {
+              "Escherichia": {},
+              "Salmonella": {}
+            }
+          },
+          "Pseudomonadales": {
+            "Pseudomonadaceae": {
+              "Pseudomonas": {}
+            }
+          }
+        }
+      },
+      "Firmicutes": {
+        "Clostridia": {
+          "Clostridiales": {
+            "Clostridiaceae": {
+              "Clostridium": {}
+            }
+          }
+        },
+        "Bacilli": {
+          "Lactobacillales": {
+            "Streptococcaceae": {
+              "Streptococcus": {}
+            }
+          },
+          "Bacillales": {
+            "Bacillaceae": {
+              "Bacillus": {}
+            }
+          }
+        }
+      },
+      "Actinobacteria": {
+        "Actinomycetales": {
+          "Mycobacteriaceae": {
+            "Mycobacterium": {}
+          },
+          "Streptomycetaceae": {
+            "Streptomyces": {}
+          }
+        }
+      }
+    },
+
+    "Archaea": {
+      "Euryarchaeota": {
+        "Methanobacteriales": {
+          "Methanobacteriaceae": {
+            "Methanobacterium": {}
+          }
+        },
+        "Halobacteriales": {
+          "Halobacteriaceae": {
+            "Halobacterium": {}
+          }
+        }
+      },
+      "TACK": {
+        "Thaumarchaeota": {
+          "Nitrosopumilales": {
+            "Nitrosopumilaceae": {
+              "Nitrosopumilus": {}
+            }
+          }
+        }
+      },
+      "Asgard": {
+        "Lokiarchaeota": {
+          "Lokiarchaeales": {
+            "Lokiarchaeaceae": {
+              "Candidatus Lokiarchaeum": {}
+            }
+          }
+        }
+      }
+    },
+
+    "Eukarya": {
+      "Excavata": {
+        "Euglenozoa": {
+          "Kinetoplastida": {
+            "Trypanosomatidae": {
+              "Trypanosoma": {},
+              "Leishmania": {}
+            }
+          }
+        },
+        "Diplomonads": {
+          "Giardiaceae": {
+            "Giardia": {}
+          }
+        }
+      },
+      "SAR": {
+        "Stramenopiles": {
+          "Bacillariophyta": {
+            "Centrales": {},
+            "Pennales": {}
+          },
+          "Phaeophyceae": {
+            "Laminariales": {
+              "Laminariaceae": {
+                "Laminaria": {}
+              }
+            }
+          }
+        },
+        "Alveolates": {
+          "Ciliophora": {
+            "Oligohymenophorea": {
+              "Paramecium": {}
+            }
+          },
+          "Apicomplexa": {
+            "Haemosporida": {
+              "Plasmodium": {}
+            }
+          }
+        },
+        "Rhizaria": {
+          "Foraminifera": {
+            "Rotaliida": {
+              "Globigerinidae": {
+                "Globigerina": {}
+              }
+            }
+          }
+        }
+      },
+      "Archaeplastida": {
+        "Viridiplantae": {
+          "Bryophytes": {
+            "Marchantiophyta": {
+              "Marchantia": {}
+            },
+            "Bryophyta": {
+              "Polytrichum": {}
+            }
+          },
+          "Tracheophytes": {
+            "Lycophytes": {
+              "Selaginellaceae": {
+                "Selaginella": {}
+              }
+            },
+            "Euphyllophytes": {
+              "Gymnosperms": {
+                "Pinaceae": {
+                  "Pinus": {}
+                }
+              },
+              "Angiosperms": {
+                "Monocots": {
+                  "Poaceae": {
+                    "Oryza": {},
+                    "Triticum": {}
+                  }
+                },
+                "Eudicots": {
+                  "Fabaceae": {
+                    "Glycine": {},
+                    "Medicago": {}
+                  },
+                  "Asteraceae": {
+                    "Helianthus": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Opisthokonta": {
+        "Fungi": {
+          "Ascomycota": {
+            "Saccharomycetes": {
+              "Saccharomyces": {}
+            }
+          },
+          "Basidiomycota": {
+            "Agaricomycetes": {
+              "Agaricus": {}
+            }
+          }
+        },
+        "Metazoa": {
+          "Porifera": {
+            "Demospongiae": {
+              "Spongillidae": {
+                "Ephydatia": {}
+              }
+            }
+          },
+          "Cnidaria": {
+            "Anthozoa": {
+              "Acroporidae": {
+                "Acropora": {}
+              }
+            }
+          },
+          "Bilateria": {
+            "Protostomia": {
+              "Ecdysozoa": {
+                "Arthropoda": {
+                  "Insecta": {
+                    "Coleoptera": {
+                      "Coccinellidae": {
+                        "Harmonia": {}
+                      }
+                    }
+                  }
+                }
+              },
+              "Lophotrochozoa": {
+                "Mollusca": {
+                  "Gastropoda": {
+                    "Helicidae": {
+                      "Helix": {}
+                    }
+                  }
+                }
+              }
+            },
+            "Deuterostomia": {
+              "Chordata": {
+                "Vertebrata": {
+                  "Mammalia": {
+                    "Primates": {
+                      "Hominidae": {
+                        "Homo": {
+                          "Homo sapiens": {}
+                        }
+                      }
+                    },
+                    "Carnivora": {
+                      "Felidae": {
+                        "Panthera": {
+                          "Panthera tigris": {}
+                        }
+                      }
+                    }
+                  },
+                  "Aves": {
+                    "Passeriformes": {
+                      "Corvidae": {
+                        "Corvus": {
+                          "Corvus corax": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Amoebozoa": {
+        "Discosea": {
+          "Acanthamoebidae": {
+            "Acanthamoeba": {}
+          }
+        }
+      }
+    }
+  }
+}

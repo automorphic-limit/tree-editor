@@ -1,0 +1,289 @@
+{
+  "Trees": {
+    "Abstract Trees": {
+      "Graph Theory Trees": {
+        "Rooted": {
+          "Ordered": {
+            "Preorder Traversal": {},
+            "Postorder Traversal": {}
+          },
+          "Unordered": {}
+        },
+        "k-ary Trees": {
+          "Binary Tree": {
+            "Full": {},
+            "Complete": {},
+            "Perfect": {},
+            "Balanced": {},
+            "Degenerate": {}
+          },
+          "Ternary Tree": {},
+          "Quad Tree": {},
+          "Octree": {}
+        },
+        "Search Trees": {
+          "BST": {},
+          "AVL Tree": {},
+          "Red-Black Tree": {},
+          "Splay Tree": {},
+          "Treap": {},
+          "Skip List (skip tree view)": {}
+        },
+        "Segment Structures": {
+          "Segment Tree": {},
+          "Fenwick Tree": {},
+          "Interval Tree": {},
+          "Range Tree": {}
+        },
+        "Spatial Trees": {
+          "kd-Tree": {},
+          "R-Tree": {},
+          "R*-Tree": {},
+          "Bounding Volume Hierarchy": {},
+          "BSP Tree": {}
+        },
+        "Suffix Structures": {
+          "Trie": {},
+          "Suffix Tree": {},
+          "Suffix Array (tree view)": {}
+        },
+        "Spanning Trees": {
+          "Minimum Spanning": {
+            "Kruskal": {},
+            "Prim": {}
+          },
+          "Maximum Spanning": {}
+        },
+        "Balancing Schemes": {
+          "Weight-Balanced Tree": {},
+          "AA Tree": {},
+          "B-Tree Family": {
+            "B-Tree": {},
+            "B+ Tree": {},
+            "B* Tree": {},
+            "LSM Tree": {}
+          }
+        }
+      },
+      "Data Trees": {
+        "File System": {
+          "Directory Tree": {},
+          "Btrfs Extent Tree": {},
+          "Inode Tree": {}
+        },
+        "Merkle Tree": {
+          "Hash Tree": {},
+          "Patricia Trie": {}
+        },
+        "Scene Graph": {},
+        "DOM Tree": {},
+        "Game Tree": {
+          "Minimax": {},
+          "Alpha-Beta": {},
+          "MCTS": {}
+        }
+      },
+      "Decision Trees": {
+        "CART": {},
+        "ID3": {},
+        "C4.5": {},
+        "Random Forest": {},
+        "Gradient Boosted Trees": {
+          "XGBoost": {},
+          "LightGBM": {}
+        },
+        "Isolation Forest": {},
+        "Extra Trees": {}
+      },
+      "Parse Trees": {
+        "Concrete Syntax Tree": {},
+        "Abstract Syntax Tree": {
+          "Expression Node": {},
+          "Statement Node": {}
+        },
+        "Dependency Parse": {},
+        "Constituency Parse": {}
+      },
+      "Phylogenetic Trees": {
+        "Cladogram": {},
+        "Dendrogram": {},
+        "Coalescent Tree": {}
+      }
+    },
+
+    "Concrete Trees": {
+      "Taxonomy": {
+        "Gymnosperms": {
+          "Conifers": {
+            "Pinaceae": {
+              "Pine (Pinus)": {},
+              "Fir (Abies)": {},
+              "Spruce (Picea)": {},
+              "Larch (Larix)": {}
+            },
+            "Cupressaceae": {
+              "Cedar": {},
+              "Cypress": {}
+            }
+          },
+          "Cycads": {},
+          "Ginkgo": {}
+        },
+        "Angiosperms": {
+          "Monocots": {
+            "Palm": {},
+            "Bamboo": {},
+            "Banana": {}
+          },
+          "Eudicots": {
+            "Rosids": {
+              "Oak": {},
+              "Maple": {},
+              "Birch": {},
+              "Cherry": {},
+              "Apple": {}
+            },
+            "Asterids": {
+              "Olive": {},
+              "Eucalyptus": {},
+              "Ash": {}
+            }
+          },
+          "Magnoliids": {
+            "Magnolia": {},
+            "Avocado": {}
+          }
+        }
+      },
+      "Tree Parts": {
+        "Root System": {
+          "Taproot": {},
+          "Fibrous": {},
+          "Adventitious": {}
+        },
+        "Stem": {
+          "Trunk": {},
+          "Branch": {},
+          "Twig": {}
+        },
+        "Leaves": {
+          "Simple Leaf": {},
+          "Compound Leaf": {},
+          "Needle": {}
+        },
+        "Reproductive": {
+          "Flower": {},
+          "Cone": {},
+          "Fruit": {},
+          "Seed": {}
+        }
+      },
+      "Ecological Roles": {
+        "Canopy Tree": {},
+        "Understory Tree": {},
+        "Pioneer Species": {},
+        "Climax Species": {},
+        "Mangrove": {},
+        "Nitrogen-Fixing Tree": {}
+      },
+      "Forest Layers": {
+        "Emergent": {},
+        "Canopy": {},
+        "Understory": {},
+        "Shrub Layer": {},
+        "Forest Floor": {}
+      },
+      "Growth Forms": {
+        "Single-Stemmed": {},
+        "Multi-Stemmed": {},
+        "Coppiced": {},
+        "Pollarded": {},
+        "Bonsai": {}
+      },
+      "Wood Uses": {
+        "Timber": {
+          "Construction": {},
+          "Furniture": {},
+          "Shipbuilding": {}
+        },
+        "Pulpwood": {},
+        "Firewood": {},
+        "Ornamental": {},
+        "Medicinal": {},
+        "Resin Tapping": {}
+      }
+    },
+
+    "Metaphorical Trees": {
+      "Knowledge Trees": {
+        "Mind Map": {},
+        "Concept Map": {},
+        "Ontology Tree": {
+          "Taxonomy": {},
+          "Category Hierarchy": {}
+        },
+        "Directory Tree": {},
+        "Topic Hierarchy": {}
+      },
+      "Decision & Analysis Trees": {
+        "Decision Tree Diagram": {},
+        "Influence Diagram": {},
+        "Event Tree (Safety)": {},
+        "Fault Tree (Risk)": {},
+        "Work Breakdown Structure": {},
+        "Strategy Tree": {}
+      },
+      "Computational Trees": {
+        "Call Tree": {},
+        "Stack Trace Tree": {},
+        "Package Dependency Tree": {},
+        "Build Dependency Tree": {}
+      },
+      "Historical & Genealogical Trees": {
+        "Family Tree": {
+          "Genealogy": {},
+          "Royal Lineage": {},
+          "Pedigree Chart": {}
+        },
+        "Language Family Tree": {},
+        "Evolutionary Tree": {},
+        "Cultural Diffusion Tree": {}
+      },
+      "Philosophical & Mythic Trees": {
+        "Tree of Life": {
+          "Kabbalistic Sephirot": {},
+          "Norse Yggdrasil": {},
+          "Darwinian Tree": {}
+        },
+        "Tree of Knowledge": {},
+        "World Tree": {},
+        "Bodhi Tree (Enlightenment)": {}
+      },
+      "Learning & Skill Trees": {
+        "Video Game Tech Tree": {},
+        "Skill Progression Tree": {},
+        "Curriculum Prerequisite Tree": {}
+      },
+      "Financial Trees": {
+        "Binomial Option Pricing Tree": {},
+        "Trinomial Tree": {},
+        "Cash Flow Tree": {}
+      },
+      "Linguistic Trees": {
+        "Sentence Diagram Tree": {},
+        "Syntax Tree": {},
+        "Morphological Tree": {}
+      },
+      "Logic & Proof Trees": {
+        "Truth Tree": {},
+        "Sequent Proof Tree": {},
+        "Derivation Tree": {}
+      },
+      "Social Structures": {
+        "Organizational Chart": {},
+        "Clan Tree": {},
+        "Friendship Tree": {}
+      }
+    }
+  }
+}

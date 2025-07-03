@@ -1,0 +1,373 @@
+{
+  "Nervous System": {
+    "Central Nervous System": {
+      "Brain": {
+        "Forebrain (Prosencephalon)": {
+          "Telencephalon": {
+            "Cerebral Cortex": {
+              "Lobes": {
+                "Frontal Lobe": {
+                  "Functional Areas": {
+                    "Primary Motor Cortex (4)": {
+                      "Somatotopy": {
+                        "Face": {},
+                        "Upper Limb": {},
+                        "Trunk": {},
+                        "Lower Limb": {}
+                      }
+                    },
+                    "Premotor Cortex (6)": {},
+                    "Supplementary Motor Area": {},
+                    "Dorsolateral Prefrontal Cortex": {
+                      "Working Memory": {},
+                      "Executive Control": {}
+                    },
+                    "Broca's Area (44/45)": {
+                      "Pars Opercularis": {},
+                      "Pars Triangularis": {}
+                    }
+                  }
+                },
+                "Parietal Lobe": {
+                  "Functional Areas": {
+                    "Primary Somatosensory Cortex (1/2/3)": {
+                      "Somatotopy": {
+                        "Hand": {},
+                        "Face": {},
+                        "Lower Limb": {}
+                      }
+                    },
+                    "Posterior Parietal Association": {
+                      "Spatial Attention": {},
+                      "Sensorimotor Integration": {}
+                    }
+                  }
+                },
+                "Temporal Lobe": {
+                  "Functional Areas": {
+                    "Primary Auditory Cortex (41/42)": {
+                      "Tonotopy": {}
+                    },
+                    "Wernicke's Area (22)": {},
+                    "Medial Temporal": {
+                      "Hippocampal Formation": {},
+                      "Parahippocampal Gyrus": {}
+                    }
+                  }
+                },
+                "Occipital Lobe": {
+                  "Functional Areas": {
+                    "Primary Visual Cortex (17)": {
+                      "Retinotopy": {}
+                    },
+                    "Visual Association Cortex (18/19)": {
+                      "Dorsal Stream (Where)": {},
+                      "Ventral Stream (What)": {}
+                    }
+                  }
+                },
+                "Insula": {
+                  "Gustatory Cortex": {},
+                  "Interoception": {}
+                }
+              }
+            },
+            "Basal Ganglia": {
+              "Striatum": {
+                "Caudate Nucleus": {
+                  "Head": {},
+                  "Body": {},
+                  "Tail": {}
+                },
+                "Putamen": {}
+              },
+              "Globus Pallidus": {
+                "External Segment (GPe)": {},
+                "Internal Segment (GPi)": {}
+              },
+              "Substantia Nigra": {
+                "Pars Compacta": {
+                  "Dopaminergic Neurons": {}
+                },
+                "Pars Reticulata": {}
+              },
+              "Subthalamic Nucleus": {}
+            },
+            "Limbic System": {
+              "Hippocampus": {
+                "CA Fields": {
+                  "CA1": {},
+                  "CA2": {},
+                  "CA3": {}
+                },
+                "Dentate Gyrus": {}
+              },
+              "Amygdala": {
+                "Basolateral Complex": {},
+                "Central Nucleus": {}
+              },
+              "Cingulate Gyrus": {},
+              "Nucleus Accumbens": {}
+            }
+          },
+          "Diencephalon": {
+            "Thalamus": {
+              "Relay Nuclei": {
+                "Lateral Geniculate": {},
+                "Medial Geniculate": {},
+                "Ventral Posterolateral": {}
+              },
+              "Association Nuclei": {
+                "Pulvinar": {},
+                "Mediodorsal": {}
+              }
+            },
+            "Hypothalamus": {
+              "Nuclei": {
+                "Suprachiasmatic": {},
+                "Paraventricular": {},
+                "Lateral Hypothalamic Area": {}
+              }
+            },
+            "Epithalamus (Pineal)": {},
+            "Subthalamus": {}
+          }
+        },
+        "Midbrain (Mesencephalon)": {
+          "Tectum": {
+            "Superior Colliculus": {
+              "Saccadic Eye Movements": {}
+            },
+            "Inferior Colliculus": {
+              "Auditory Reflexes": {}
+            }
+          },
+          "Tegmentum": {
+            "Red Nucleus": {},
+            "Periaqueductal Gray": {},
+            "Substantia Nigra": {}
+          },
+          "Cerebral Peduncles": {}
+        },
+        "Hindbrain (Rhombencephalon)": {
+          "Metencephalon": {
+            "Pons": {
+              "Pontine Nuclei": {},
+              "Respiratory Centers": {}
+            },
+            "Cerebellum": {
+              "Cerebellar Cortex": {
+                "Anterior Lobe": {},
+                "Posterior Lobe": {},
+                "Flocculonodular Lobe": {}
+              },
+              "Deep Cerebellar Nuclei": {
+                "Dentate": {},
+                "Interposed": {},
+                "Fastigial": {}
+              },
+              "Cerebellar Pathways": {
+                "Spinocerebellar": {},
+                "Cerebrocerebellar": {},
+                "Vestibulocerebellar": {}
+              }
+            }
+          },
+          "Myelencephalon": {
+            "Medulla Oblongata": {
+              "Cardiovascular Center": {},
+              "Olive": {},
+              "Medullary Pyramids": {}
+            }
+          }
+        }
+      },
+      "Spinal Cord": {
+        "Segments": {
+          "Cervical (C1-C8)": {
+            "Enlargement": {}
+          },
+          "Thoracic (T1-T12)": {},
+          "Lumbar (L1-L5)": {
+            "Enlargement": {}
+          },
+          "Sacral (S1-S5)": {},
+          "Coccygeal (Co1)": {}
+        },
+        "Ascending Tracts": {
+          "Dorsal Columns": {
+            "Gracile Fasciculus": {},
+            "Cuneate Fasciculus": {}
+          },
+          "Spinothalamic Tract": {},
+          "Spinocerebellar Tracts": {}
+        },
+        "Descending Tracts": {
+          "Corticospinal Tract": {
+            "Lateral": {},
+            "Anterior": {}
+          },
+          "Rubrospinal Tract": {},
+          "Reticulospinal Tract": {}
+        }
+      }
+    },
+
+    "Peripheral Nervous System": {
+      "Somatic Nervous System": {
+        "Cranial Nerves": {
+          "CN I Olfactory": {
+            "Olfactory Bulb": {}
+          },
+          "CN II Optic": {
+            "Optic Chiasm": {},
+            "Optic Tract": {}
+          },
+          "CN III Oculomotor": {},
+          "CN IV Trochlear": {},
+          "CN V Trigeminal": {
+            "Ophthalmic": {},
+            "Maxillary": {},
+            "Mandibular": {}
+          },
+          "CN VI Abducens": {},
+          "CN VII Facial": {
+            "Facial Nucleus": {},
+            "Chorda Tympani": {}
+          },
+          "CN VIII Vestibulocochlear": {
+            "Vestibular Division": {},
+            "Cochlear Division": {}
+          },
+          "CN IX Glossopharyngeal": {},
+          "CN X Vagus": {
+            "Dorsal Motor Nucleus": {}
+          },
+          "CN XI Accessory": {},
+          "CN XII Hypoglossal": {}
+        },
+        "Spinal Nerves": {
+          "Cervical Plexus": {
+            "Phrenic Nerve": {}
+          },
+          "Brachial Plexus": {
+            "Median Nerve": {},
+            "Ulnar Nerve": {},
+            "Radial Nerve": {}
+          },
+          "Lumbar Plexus": {
+            "Femoral Nerve": {}
+          },
+          "Sacral Plexus": {
+            "Sciatic Nerve": {}
+          }
+        }
+      },
+      "Autonomic Nervous System": {
+        "Sympathetic Division": {
+          "Thoracolumbar Outflow": {},
+          "Sympathetic Chain Ganglia": {},
+          "Collateral Ganglia": {},
+          "Adrenal Medulla": {}
+        },
+        "Parasympathetic Division": {
+          "Craniosacral Outflow": {},
+          "Terminal Ganglia": {},
+          "Pelvic Splanchnic Nerves": {}
+        },
+        "Enteric Nervous System": {
+          "Myenteric Plexus (Auerbach)": {},
+          "Submucosal Plexus (Meissner)": {}
+        }
+      }
+    },
+
+    "Cellular Level": {
+      "Neurons": {
+        "Multipolar": {
+          "Pyramidal Cells": {},
+          "Purkinje Cells":{}
+        },
+        "Bipolar": {},
+        "Unipolar": {}
+      },
+      "Glial Cells": {
+        "CNS Glia": {
+          "Astrocytes": {
+            "Protoplasmic": {},
+            "Fibrous": {}
+          },
+          "Oligodendrocytes": {},
+          "Microglia": {},
+          "Ependymal Cells": {}
+        },
+        "PNS Glia": {
+          "Schwann Cells": {},
+          "Satellite Cells": {}
+        }
+      },
+      "Synapses": {
+        "Chemical": {
+          "Axodendritic": {},
+          "Axoaxonic": {}
+        },
+        "Electrical (Gap Junction)": {}
+      }
+    },
+
+    "Molecular Level": {
+      "Neurotransmitters": {
+        "Excitatory": {
+          "Glutamate": {
+            "AMPA": {},
+            "NMDA": {}
+          },
+          "Acetylcholine": {
+            "Nicotinic": {},
+            "Muscarinic": {}
+          }
+        },
+        "Inhibitory": {
+          "GABA": {
+            "GABA_A": {},
+            "GABA_B": {}
+          },
+          "Glycine": {}
+        },
+        "Modulatory": {
+          "Dopamine": {
+            "D1 Receptor": {},
+            "D2 Receptor": {}
+          },
+          "Serotonin": {
+            "5-HT1A": {},
+            "5-HT2A": {}
+          },
+          "Norepinephrine": {},
+          "Neuropeptides": {
+            "Substance P": {},
+            "Endorphins": {}
+          }
+        }
+      },
+      "Ion Channels": {
+        "Voltage-Gated": {
+          "Na+ Channels": {},
+          "K+ Channels": {},
+          "Ca2+ Channels": {}
+        },
+        "Ligand-Gated": {
+          "NMDA Receptor": {},
+          "AMPA Receptor": {},
+          "GABA_A Receptor": {}
+        },
+        "TRP Channels": {}
+      },
+      "Second Messengers": {
+        "cAMP": {},
+        "IP3/DAG": {},
+        "Ca2+": {}
+      }
+    }
+  }
+}

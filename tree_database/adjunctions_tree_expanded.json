@@ -1,0 +1,115 @@
+{
+  "Adjunctions": {
+    "Free–Forgetful": {
+      "Algebraic Structures": {
+        "Set ↔ Monoid": {},
+        "Set ↔ Group": {},
+        "Set ↔ Ring": {},
+        "Set ↔ Vector Space": {},
+        "Set ↔ Module": {},
+        "Set ↔ Boolean Algebra": {},
+        "Set ↔ Topological Space (Discrete)": {},
+        "Set ↔ Order (Free Poset)": {}
+      },
+      "Enriched Structures": {
+        "Graph ↔ Category": {},
+        "Preorder ↔ Thin Category": {},
+        "Simplicial Set ↔ Topological Space (Geometric Realisation)": {},
+        "CW-Complex ↔ Chain Complex": {}
+      },
+      "Programming Semantics": {
+        "Syntax ↔ Term Algebra": {},
+        "Lambda Terms ↔ Cartesian Closed Category": {}
+      }
+    },
+
+    "Product–Exponential (Currying)": {
+      "Cartesian Closed Categories": {
+        "Product ⊣ Exponential": {},
+        "Tensor ⊣ Hom (Vect)": {},
+        "Smash Product ⊣ Function Spectrum (Stable Homotopy)": {}
+      },
+      "Logic–Computation": {
+        "Conjunction ⊣ Implication": {},
+        "Sum Type ⊣ Function Space": {}
+      }
+    },
+
+    "Galois Connections": {
+      "Field Theory": {
+        "Subgroup ↔ Intermediate Field": {},
+        "Automorphism Group ↔ Fixed Field": {}
+      },
+      "Order Theory": {
+        "Closure Operator ↔ Kernel Pair": {},
+        "Open Set ↔ Closed Set (Topology)": {},
+        "Upper Set ↔ Lower Set": {}
+      },
+      "Logic": {
+        "Syntax Consequence ↔ Semantic Validity": {},
+        "Type System Subsumption ↔ Coercion": {}
+      }
+    },
+
+    "Sheaf–Topos Adjunctions": {
+      "Constant Sheaf ⊣ Global Sections": {},
+      "Direct Image ⊣ Inverse Image": {},
+      "Geometric Morphism (Left Exact)": {},
+      "Étale Space ↔ Sheaf": {}
+    },
+
+    "Limit–Colimit Adjunctions": {
+      "Diagonal Functor ⊣ Product": {},
+      "Coproduct ⊣ Diagonal": {},
+      "Constant Diagram ⊣ Limit": {},
+      "Colimit ⊣ Constant Diagram": {}
+    },
+
+    "Monad–Comonad Origins": {
+      "Free Monad Adjunction": {
+        "Term Algebra Monad": {},
+        "List Monad": {}
+      },
+      "Co‑free Comonad Adjunction": {
+        "Stream Comonad": {},
+        "Zipper Comonad": {}
+      }
+    },
+
+    "Duality‑Based Adjunctions": {
+      "Stone Duality": {
+        "Boolean Algebra ↔ Stone Space": {},
+        "Heyting Algebra ↔ Esakia Space": {}
+      },
+      "Pontryagin Duality": {
+        "Locally Compact Abelian Groups ↔ Character Group": {},
+        "Finite Abelian ↔ Dual Group": {}
+      },
+      "Gelʹfand Duality": {
+        "C*-Algebra ↔ Compact Hausdorff Space": {},
+        "Commutative Banach Algebra ↔ Spectrum": {}
+      }
+    },
+
+    "Probability & Measure Adjunctions": {
+      "Random Variable Functor ⊣ Law Functor": {},
+      "Pushforward Measure ⊣ Pullback Function": {},
+      "Expectation ⊣ Dirac Embedding": {}
+    },
+
+    "Functional Analysis Adjunctions": {
+      "Distribution Space ↔ Test Function": {},
+      "Hilbert Space Tensor ⊣ Bounded Operators": {}
+    },
+
+    "Machine Learning & Data": {
+      "Feature Map ↔ Kernel Trick": {},
+      "Data Augmentation ↔ Invariant Predictor": {}
+    },
+
+    "Systems & Control": {
+      "State Space ↔ Observable Behaviour": {},
+      "Plant ↔ Controller (Youla)”": {}
+    }
+  }
+}

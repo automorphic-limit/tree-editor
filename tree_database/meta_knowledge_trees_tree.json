@@ -1,0 +1,105 @@
+{
+  "Meta‑Knowledge Trees": {
+    "Framework Trees": {
+      "Classification Frameworks": {
+        "Disciplinary Framework": {},
+        "Thematic Framework": {},
+        "Methodological Framework": {}
+      },
+      "Abstraction Frameworks": {
+        "Concept Lattice Tree": {},
+        "Layered Architecture Tree": {},
+        "Granularity Pyramid": {}
+      },
+      "Interdisciplinary Bridges": {
+        "Comparative Ontology Tree": {},
+        "Transfer Learning Tree": {}
+      }
+    },
+
+    "Generation Trees": {
+      "Manual Curation Trees": {
+        "Expert‑Driven": {},
+        "Crowdsourced": {},
+        "Consensus Conference": {}
+      },
+      "Algorithmic Trees": {
+        "Clustering‑Derived": {},
+        "Topic Modeling": {},
+        "Graph Embedding Split": {}
+      },
+      "Hybrid Trees": {
+        "Machine‑in‑the‑Loop": {},
+        "Active Learning Tree": {}
+      }
+    },
+
+    "Transformation Trees": {
+      "Expansion Operations": {
+        "Refinement": {},
+        "Branch Duplication": {},
+        "Depth Expansion": {}
+      },
+      "Compression Operations": {
+        "Pruning": {},
+        "Merging": {},
+        "Abstraction Lift": {}
+      },
+      "Alignment Operations": {
+        "Schema Mapping": {},
+        "Ontology Alignment": {},
+        "Synonym Collapsing": {}
+      }
+    },
+
+    "Application Trees": {
+      "Education": {
+        "Curriculum Mapping Meta‑Tree": {},
+        "Adaptive Learning Path Tree": {}
+      },
+      "Research": {
+        "Literature Review Tree": {},
+        "Hypothesis Generation Tree": {}
+      },
+      "Industry": {
+        "Technology Roadmap Tree": {},
+        "Regulatory Compliance Tree": {}
+      },
+      "Creative": {
+        "Story Plot Tree": {},
+        "Game Design Skill Tree": {}
+      }
+    },
+
+    "Evaluation Trees": {
+      "Quality Metrics": {
+        "Coverage Metric Tree": {},
+        "Consistency Metric Tree": {},
+        "Depth Metric Tree": {}
+      },
+      "Benchmark Suites": {
+        "Knowledge Graph Benchmarks": {},
+        "Curriculum Learning Benchmarks": {}
+      },
+      "Feedback Loops": {
+        "User Annotation Tree": {},
+        "Expert Review Tree": {}
+      }
+    },
+
+    "Evolution Trees": {
+      "Version Control Trees": {
+        "Semantic Version Branch": {},
+        "Change Set Tree": {}
+      },
+      "Temporal Growth Trees": {
+        "Incremental Update Tree": {},
+        "Refactoring Epoch Tree": {}
+      },
+      "Convergence Trees": {
+        "Standardization Process Tree": {},
+        "Canonicalization Tree": {}
+      }
+    }
+  }
+}

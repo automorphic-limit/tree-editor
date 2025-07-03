@@ -1,0 +1,223 @@
+{
+  "Character Tropes": {
+    "Roles": {
+      "Hero": {
+        "Classical Hero": {
+          "Virtues": {
+            "Courage": {},
+            "Honor": {},
+            "Self‑Sacrifice": {}
+          },
+          "Flaws": {
+            "Hubris": {},
+            "Impatience": {}
+          }
+        },
+        "Reluctant Hero": {
+          "Call Refusal": {},
+          "Acceptance Moment": {}
+        },
+        "Chosen One": {
+          "Prophecy": {},
+          "Mentor Guidance": {}
+        }
+      },
+      "Antihero": {
+        "Byronic Hero": {
+          "Melancholy": {},
+          "Rebellion": {}
+        },
+        "Tragic Antihero": {
+          "Fatal Flaw": {},
+          "Downfall": {}
+        },
+        "Sympathetic Villain": {
+          "Tragic Backstory": {},
+          "Moral Ambiguity": {}
+        }
+      },
+      "Villain": {
+        "Evil Overlord": {
+          "Monologue": {},
+          "Doom Fortress": {}
+        },
+        "Mastermind": {
+          "Grand Plan": {},
+          "Manipulation": {}
+        },
+        "Monster": {
+          "Supernatural": {},
+          "Body Horror": {}
+        }
+      },
+      "Sidekick": {
+        "Comic Relief": {},
+        "Loyal Companion": {}
+      },
+      "Mentor": {
+        "Wise Old Man": {},
+        "Broken Mentor": {}
+      },
+      "Foil": {}
+    },
+
+    "Archetypes (Campbell / Jung)": {
+      "Hero": {
+        "Initiate": {},
+        "Warrior": {}
+      },
+      "Shadow": {
+        "Dark Mirror": {},
+        "Temptation": {}
+      },
+      "Trickster": {
+        "Comic Trickster": {},
+        "Chaotic Trickster": {}
+      },
+      "Sage": {
+        "Oracle": {},
+        "Scientist": {}
+      },
+      "Guardian": {
+        "Threshold Guardian": {},
+        "Gatekeeper": {}
+      }
+    },
+
+    "Personality‑Based": {
+      "Lancer": {
+        "Stoic Rival": {},
+        "Hot‑Blooded Rival": {}
+      },
+      "Cynic": {
+        "Sarcastic": {},
+        "Disillusioned": {}
+      },
+      "Optimist": {
+        "Cheerleader": {},
+        "Idealist": {}
+      },
+      "Deadpan Snarker": {},
+      "Gentle Giant": {},
+      "Tragic Clown": {}
+    },
+
+    "Relationship Tropes": {
+      "Star‑Crossed Lovers": {
+        "Family Feud": {},
+        "Class Divide": {}
+      },
+      "Love Triangle Participant": {
+        "Rival Suitor": {},
+        "Undecided Heart": {}
+      },
+      "Unrequited Lover": {},
+      "Found Family Member": {
+        "Team Mom": {},
+        "Team Dad": {}
+      },
+      "Rival": {}
+    },
+
+    "Anime / Manga Tropes": {
+      "Tsundere": {
+        "Harsh Exterior": {},
+        "Hidden Affection": {}
+      },
+      "Yandere": {
+        "Obsessive Love": {},
+        "Violent Protection": {}
+      },
+      "Kuudere": {
+        "Stoic": {},
+        "Soft Spot": {}
+      },
+      "Dandere": {
+        "Shy": {},
+        "Opens Up": {}
+      },
+      "Genki Girl": {},
+      "Senpai": {},
+      "Kohai": {}
+    },
+
+    "Modern Pop Culture": {
+      "Manic Pixie Dream Girl": {
+        "Quirky Habits": {},
+        "Inspires Change": {}
+      },
+      "Matron": {
+        "Caretaker": {},
+        "Firm Guidance": {}
+      },
+      "Mary Sue / Gary Stu": {
+        "Exceptional Talent": {},
+        "Moral Perfection": {}
+      },
+      "Nerdy Best Friend": {},
+      "Cool Old Guy": {}
+    },
+
+    "Occupational Tropes": {
+      "Detective": {
+        "Hard‑Boiled": {},
+        "Amateur Sleuth": {}
+      },
+      "Scientist": {
+        "Mad Scientist": {},
+        "Ethical Researcher": {}
+      },
+      "Soldier": {
+        "Hardened Veteran": {},
+        "Green Recruit": {}
+      },
+      "Artist": {
+        "Struggling Artist": {},
+        "Prodigy": {}
+      }
+    },
+
+    "Age / Authority": {
+      "Child Prodigy": {},
+      "Wise Elder": {},
+      "Overprotective Parent": {},
+      "Corrupt Official": {}
+    },
+
+    "Motivational Alignment": {
+      "Redemption Seeker": {},
+      "Revenge‑Driven": {},
+      "Power Hungry": {},
+      "Altruist": {}
+    },
+
+    "Moral Alignment (D&D)": {
+      "Lawful Good": {},
+      "Neutral Good": {},
+      "Chaotic Good": {},
+      "Lawful Neutral": {},
+      "True Neutral": {},
+      "Chaotic Neutral": {},
+      "Lawful Evil": {},
+      "Neutral Evil": {},
+      "Chaotic Evil": {}
+    },
+
+    "Character Arcs": {
+      "Positive Growth": {
+        "Discovery Arc": {},
+        "Maturation Arc": {},
+        "Redemption Arc": {}
+      },
+      "Negative Growth": {
+        "Fall from Grace": {},
+        "Corruption Arc": {},
+        "Disillusionment Arc": {}
+      },
+      "Flat Arc": {
+        "Steadfast Hero": {},
+        "Catalyst Hero": {}
+      }
+    }
+  }
+}

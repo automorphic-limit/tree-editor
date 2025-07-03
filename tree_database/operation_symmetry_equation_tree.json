@@ -1,0 +1,111 @@
+{
+  "Operations‑Based Equation Patterns": {
+    "Addition / Subtraction": {
+      "Linear Combination": {
+        "Ax + B": {},
+        "Superposition Principle": {}
+      },
+      "Balance / Conservation": {
+        "Mass Balance": {},
+        "Charge Balance": {}
+      }
+    },
+
+    "Multiplication": {
+      "Product of Variables": {
+        "Interaction Term xy": {
+          "Lotka‑Volterra Interaction": {},
+          "Bilinear Control": {}
+        }
+      },
+      "Scalar‑Field Product": {
+        "Potential Energy kx^2": {},
+        "Damping 2βy'": {}
+      }
+    },
+
+    "Exponentiation / Powers": {
+      "Quadratic Power x^2": {
+        "Norm / Euclidean Distance": {},
+        "Gaussian Kernel e^{−x^2}": {}
+      },
+      "General Power x^p": {
+        "Moments": {},
+        "Power‑Law Growth": {}
+      }
+    },
+
+    "Exponential Function e^{·}": {
+      "Pure Exponential": {
+        "Growth / Decay": {},
+        "Compounding Interest": {}
+      },
+      "Exponent of Quadratic": {
+        "Normal Distribution PDF": {},
+        "Heat Kernel": {}
+      }
+    },
+
+    "Factor (1 − x)": {
+      "Probabilistic Complement": {
+        "Survival Function": {},
+        "Failure Probability": {}
+      },
+      "Logistic Structure": {
+        "Logistic Growth dy/dt = r y (1−y/K)": {},
+        "Bernoulli Trials p(1−p)": {}
+      }
+    },
+
+    "Summation / Σ": {
+      "Finite Sum": {
+        "Arithmetic Series": {},
+        "Binomial Coefficients": {}
+      },
+      "Infinite Series": {
+        "Power Series": {},
+        "Fourier Series": {}
+      }
+    },
+
+    "Integral ∫": {
+      "Area Accumulation": {
+        "Definite Integral": {},
+        "Cumulative Distribution Function": {}
+      },
+      "Convolution Integral": {
+        "Signal Convolution f*g": {},
+        "Green's Solution": {}
+      }
+    },
+
+    "Differential d/dx": {
+      "First Derivative": {
+        "Slope": {},
+        "Rate of Change": {}
+      },
+      "Second Derivative": {
+        "Concavity": {},
+        "Acceleration": {}
+      }
+    },
+
+    "Composition f(g(x))": {
+      "Nested Functions": {
+        "Chain Rule": {},
+        "Activation Functions in NN": {}
+      }
+    },
+
+    "Operator Notation": {
+      "Gradient ∇": {
+        "Laplace ∇²": {},
+        "Divergence ∇·": {}
+      },
+      "Integral Transform": {
+        "Laplace Transform": {},
+        "Fourier Transform": {}
+      }
+    }
+  }
+}

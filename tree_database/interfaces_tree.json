@@ -1,0 +1,234 @@
+{
+  "Interfaces": {
+    "Physical Interfaces": {
+      "Hardware Ports": {
+        "USB": {
+          "USB-A": {},
+          "USB-C": {},
+          "USB-Micro": {}
+        },
+        "HDMI": {},
+        "DisplayPort": {},
+        "Thunderbolt": {},
+        "Audio Jack": {}
+      },
+      "Sensors & Actuators": {
+        "Temperature Sensor": {},
+        "Accelerometer": {},
+        "Motor Driver": {},
+        "LED Indicator": {}
+      },
+      "Networking": {
+        "Ethernet (RJ-45)": {},
+        "Wi-Fi (802.11)": {},
+        "Bluetooth": {},
+        "NFC": {}
+      }
+    },
+
+    "Human-Computer Interfaces": {
+      "Input Devices": {
+        "Keyboard": {},
+        "Mouse": {},
+        "Touchscreen": {},
+        "Stylus": {},
+        "Voice": {},
+        "Gesture": {},
+        "Eye-Tracking": {}
+      },
+      "Output Devices": {
+        "Monitor": {},
+        "Speaker": {},
+        "Printer": {},
+        "Haptic Feedback": {},
+        "VR / AR Display": {}
+      },
+      "Interaction Paradigms": {
+        "CLI": {},
+        "GUI": {
+          "WIMP": {},
+          "Touch UI": {}
+        },
+        "VUI": {},
+        "Conversational UI": {},
+        "Immersive UI": {}
+      },
+      "Accessibility Interfaces": {
+        "Screen Reader": {},
+        "Braille Display": {},
+        "Switch Control": {}
+      }
+    },
+
+    "Software Interfaces": {
+      "Programming Interfaces": {
+        "API": {
+          "REST": {},
+          "GraphQL": {},
+          "gRPC": {}
+        },
+        "SDK": {},
+        "CLI Tools": {}
+      },
+      "ABI": {
+        "x86": {},
+        "ARM": {}
+      },
+      "Operating System Interfaces": {
+        "POSIX": {},
+        "Win32": {},
+        "System Calls": {}
+      },
+      "Library Interfaces": {
+        "Header-Only": {},
+        "Static Linking": {},
+        "Dynamic Linking": {}
+      },
+      "Microservice Interfaces": {
+        "Service Mesh": {},
+        "Event-Driven": {}
+      }
+    },
+
+    "Network Interfaces": {
+      "Protocol Layers": {
+        "Link Layer": {
+          "Ethernet Frame": {},
+          "Wi-Fi Frame": {}
+        },
+        "Internet Layer": {
+          "IPv4": {},
+          "IPv6": {}
+        },
+        "Transport Layer": {
+          "TCP": {},
+          "UDP": {}
+        },
+        "Application Layer": {
+          "HTTP": {},
+          "MQTT": {},
+          "DNS": {}
+        }
+      },
+      "Virtual Interfaces": {
+        "Loopback": {},
+        "TUN / TAP": {},
+        "VLAN": {},
+        "Bridge": {}
+      },
+      "VPN Interfaces": {
+        "OpenVPN": {},
+        "WireGuard": {}
+      }
+    },
+
+    "Data Interfaces": {
+      "File Formats": {
+        "JSON": {},
+        "XML": {},
+        "CSV": {},
+        "Protocol Buffers": {},
+        "Avro": {}
+      },
+      "Message Queues": {
+        "AMQP": {},
+        "Kafka": {},
+        "ZeroMQ": {}
+      },
+      "Database Drivers": {
+        "ODBC": {},
+        "JDBC": {},
+        "MongoDB Driver": {}
+      },
+      "Data APIs": {
+        "GraphQL Subscriptions": {},
+        "OData": {}
+      }
+    },
+
+    "Organizational Interfaces": {
+      "Workplace Interfaces": {
+        "Employee-Management": {},
+        "Departmental": {},
+        "Client-Customer": {},
+        "Supplier-Vendor": {}
+      },
+      "Communication Channels": {
+        "Email": {},
+        "Chat": {},
+        "Meetings": {},
+        "Ticketing System": {}
+      },
+      "Process Interfaces": {
+        "Agile Ceremonies": {},
+        "Quality Assurance Gates": {}
+      }
+    },
+
+    "Biological Interfaces": {
+      "Cellular Interfaces": {
+        "Cell Membrane": {},
+        "Gap Junction": {},
+        "Synapse": {}
+      },
+      "Tissue Interfaces": {
+        "Epithelial-Blood": {},
+        "Neuromuscular Junction": {},
+        "Blood-Brain Barrier": {}
+      },
+      "Organ Interfaces": {
+        "Alveolar-Capillary": {},
+        "Placental": {},
+        "Dermal": {}
+      }
+    },
+
+    "Material & Phase Interfaces": {
+      "Phase Boundaries": {
+        "Solid-Liquid": {},
+        "Liquid-Gas": {},
+        "Solid-Solid": {}
+      },
+      "Grain Boundaries": {
+        "High-Angle": {},
+        "Low-Angle": {}
+      },
+      "Surface Coatings": {
+        "Oxide Layer": {},
+        "Polymer Coating": {}
+      }
+    },
+
+    "Ecological Interfaces": {
+      "Biome Boundaries": {
+        "Forest-Grassland": {},
+        "Estuary": {}
+      },
+      "Land-Water Interfaces": {
+        "Riparian Zone": {},
+        "Coastal Shelf": {}
+      }
+    },
+
+    "Quantum Interfaces": {
+      "Qubit-Classical Control": {},
+      "Quantum Measurement": {
+        "SQUID": {},
+        "Photonic Detector": {}
+      }
+    },
+
+    "User Experience Guidelines": {
+      "Usability Heuristics": {},
+      "Accessibility": {
+        "WCAG": {},
+        "ARIA": {}
+      },
+      "Design Systems": {
+        "Material Design": {},
+        "Human Interface Guidelines": {},
+        "Fluent Design": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "Life": {
+    "Bacteria": {
+      "Proteobacteria": {
+        "Alphaproteobacteria": {
+          "Rhizobiales": {
+            "Rhizobiaceae": {
+              "Rhizobium": {
+                "Rhizobium leguminosarum": {}
+              }
+            },
+            "Bradyrhizobiaceae": {
+              "Bradyrhizobium": {
+                "Bradyrhizobium japonicum": {}
+              }
+            }
+          },
+          "Rickettsiales": {
+            "Rickettsiaceae": {
+              "Rickettsia": {
+                "Rickettsia rickettsii": {}
+              }
+            }
+          }
+        },
+        "Gammaproteobacteria": {
+          "Enterobacterales": {
+            "Enterobacteriaceae": {
+              "Escherichia": {
+                "Escherichia coli": {}
+              },
+              "Salmonella": {
+                "Salmonella enterica": {}
+              }
+            }
+          },
+          "Pseudomonadales": {
+            "Pseudomonadaceae": {
+              "Pseudomonas": {
+                "Pseudomonas aeruginosa": {}
+              }
+            }
+          }
+        }
+      },
+      "Firmicutes": {
+        "Bacilli": {
+          "Bacillales": {
+            "Bacillaceae": {
+              "Bacillus": {
+                "Bacillus subtilis": {}
+              }
+            }
+          },
+          "Lactobacillales": {
+            "Streptococcaceae": {
+              "Streptococcus": {
+                "Streptococcus pneumoniae": {}
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Archaea": {
+      "Euryarchaeota": {
+        "Methanobacteria": {
+          "Methanobacteriales": {
+            "Methanobacteriaceae": {
+              "Methanobacterium": {
+                "Methanobacterium formicicum": {}
+              }
+            }
+          }
+        },
+        "Halobacteria": {
+          "Halobacteriales": {
+            "Halobacteriaceae": {
+              "Halobacterium": {
+                "Halobacterium salinarum": {}
+              }
+            }
+          }
+        }
+      },
+      "Asgard": {
+        "Lokiarchaeia": {
+          "Lokiarchaeales": {
+            "Lokiarchaeaceae": {
+              "Candidatus Lokiarchaeum": {
+                "Candidatus Lokiarchaeum ossiferum": {}
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Eukarya": {
+      "Opisthokonta": {
+        "Metazoa": {
+          "Chordata": {
+            "Mammalia": {
+              "Primates": {
+                "Hominidae": {
+                  "Homo": {
+                    "Homo sapiens": {}
+                  }
+                }
+              },
+              "Carnivora": {
+                "Felidae": {
+                  "Panthera": {
+                    "Panthera tigris": {}
+                  }
+                }
+              }
+            },
+            "Aves": {
+              "Passeriformes": {
+                "Corvidae": {
+                  "Corvus": {
+                    "Corvus corax": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Fungi": {
+          "Ascomycota": {
+            "Saccharomycetes": {
+              "Saccharomycetales": {
+                "Saccharomycetaceae": {
+                  "Saccharomyces": {
+                    "Saccharomyces cerevisiae": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Archaeplastida": {
+        "Viridiplantae": {
+          "Euphyllophytes": {
+            "Angiosperms": {
+              "Eudicots": {
+                "Fabaceae": {
+                  "Glycine": {
+                    "Glycine max": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

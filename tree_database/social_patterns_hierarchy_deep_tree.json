@@ -1,0 +1,270 @@
+{
+  "Social Patterns": {
+    "Universal Levels": {
+      "Individual": {},
+      "Dyad": {
+        "Pair Bond": {},
+        "Mutualistic Dyad": {},
+        "Parasitic Pair": {}
+      },
+      "Small Group": {
+        "Family": {},
+        "Sibling Group": {},
+        "Coalition": {},
+        "Hunting Party": {}
+      },
+      "Medium Group": {
+        "Pack / Pod": {},
+        "Flock / School": {},
+        "Herd": {},
+        "Crew": {}
+      },
+      "Large Aggregation": {
+        "Colony": {},
+        "Guild": {},
+        "Swarm": {},
+        "Murmuration": {}
+      },
+      "Super‑Organism": {
+        "Eusocial Insect Colony": {},
+        "Coral Reef Polyps": {},
+        "Siphonophore Unit": {}
+      },
+      "Ecosystem Network": {
+        "Trophic Web": {},
+        "Nutrient Cycle Network": {}
+      }
+    },
+
+    "Human Systems": {
+      "Kinship & Family": {
+        "Household": {},
+        "Nuclear Family": {},
+        "Extended Family": {},
+        "Clan / Lineage": {},
+        "Descent System": {
+          "Patrilineal": {},
+          "Matrilineal": {},
+          "Bilateral": {}
+        },
+        "Marriage Systems": {
+          "Monogamy": {},
+          "Polygyny": {},
+          "Polyandry": {},
+          "Group Marriage": {},
+          "Serial Monogamy": {}
+        }
+      },
+      "Socio‑Political Organization": {
+        "Band": {},
+        "Tribe": {},
+        "Chiefdom": {},
+        "State": {
+          "City‑State": {},
+          "Nation‑State": {},
+          "Empire": {},
+          "Federation": {}
+        },
+        "Supranational Bloc": {
+          "Union": {},
+          "Alliance": {}
+        }
+      },
+      "Governance Structures": {
+        "Autocracy": {
+          "Monarchy": {},
+          "Dictatorship": {}
+        },
+        "Oligarchy": {},
+        "Democracy": {
+          "Direct": {},
+          "Representative": {}
+        },
+        "Technocracy": {},
+        "Bureaucracy": {},
+        "Gerontocracy": {}
+      },
+      "Economic Organization": {
+        "Subsistence": {
+          "Foraging": {},
+          "Pastoralism": {},
+          "Agriculture": {}
+        },
+        "Market Systems": {
+          "Capitalist": {},
+          "Mixed Economy": {},
+          "Command Economy": {}
+        },
+        "Labor Division": {
+          "Caste": {},
+          "Class": {
+            "Lower": {},
+            "Middle": {},
+            "Upper": {}
+          },
+          "Guild / Profession": {}
+        }
+      },
+      "Institutional Structures": {
+        "Political Institution": {},
+        "Legal System": {
+          "Common Law": {},
+          "Civil Law": {},
+          "Religious Law": {}
+        },
+        "Religious Institution": {
+          "Hierarchy": {},
+          "Congregation": {}
+        },
+        "Educational Institution": {
+          "School": {},
+          "University": {},
+          "Research Institute": {}
+        },
+        "Healthcare System": {
+          "Hospital": {},
+          "Clinic": {},
+          "Public Health Body": {}
+        }
+      },
+      "Organizational Forms": {
+        "Corporation": {
+          "Functional": {},
+          "Divisional": {},
+          "Matrix": {},
+          "Holacracy": {}
+        },
+        "Non‑Profit": {},
+        "Co‑operative": {},
+        "DAO (Blockchain)": {}
+      },
+      "Urban & Network Scales": {
+        "Hamlet": {},
+        "Village": {},
+        "Town": {},
+        "City": {},
+        "Metropolis": {},
+        "Megalopolis": {}
+      }
+    },
+
+    "Animal Social Systems": {
+      "Mammals": {
+        "Primates": {
+          "Solitary (Orangutan)": {},
+          "One‑Male Unit": {},
+          "Multi‑Male Multi‑Female": {},
+          "Fission‑Fusion": {},
+          "Dominance Hierarchy": {}
+        },
+        "Carnivores": {
+          "Pack Hunting (Wolves)": {},
+          "Pride Structure (Lions)": {},
+          "Solitary Felid": {}
+        },
+        "Ungulates": {
+          "Herd with Harem (Zebras)": {},
+          "Lekking (Antelope)": {}
+        },
+        "Cetaceans": {
+          "Matriarchal Pod": {},
+          "Bachelor Group": {},
+          "All‑Male Alliance": {}
+        },
+        "Chiroptera": {
+          "Maternity Colony": {},
+          "Satellite Male": {}
+        }
+      },
+      "Birds": {
+        "Pair‑Bond Monogamy": {},
+        "Co‑operative Breeding": {},
+        "Colonial Nesting": {},
+        "Lek Mating": {},
+        "Mixed‑Species Flocking": {}
+      },
+      "Insects & Arachnids": {
+        "Eusociality": {
+          "Ant Colony": {},
+          "Bee Hive": {},
+          "Termite Mound": {},
+          "Paper Wasp Nest": {}
+        },
+        "Subsocial Care": {},
+        "Aggregation Swarm": {},
+        "Parasitoid Guild": {}
+      },
+      "Fish": {
+        "Schooling": {},
+        "Shoaling": {},
+        "Haremic Reef System": {},
+        "Protogynous Hierarchy": {}
+      },
+      "Reptiles & Amphibians": {
+        "Loose Aggregation": {},
+        "Parental Guarding": {},
+        "Communal Nesting": {}
+      }
+    },
+
+    "Plant & Fungal Interactions": {
+      "Clonal Colonies": {
+        "Aspen Clone": {},
+        "Strawberry Runner": {}
+      },
+      "Mycorrhizal Networks": {
+        "Ectomycorrhiza": {},
+        "Arbuscular Mycorrhiza": {},
+        "Common Mycelial Network": {}
+      },
+      "Facilitation": {
+        "Nurse Tree": {},
+        "Strangler Fig": {}
+      },
+      "Competition": {
+        "Allelopathy": {},
+        "Shade Intolerance": {}
+      }
+    },
+
+    "Microbial Communities": {
+      "Biofilm": {},
+      "Quorum Sensing": {},
+      "Syntrophy": {},
+      "Microbiome Guild": {},
+      "Phage‑Bacteria Dynamics": {},
+      "CRISPR Defense Network": {}
+    },
+
+    "Symmetry Across Life": {
+      "Hierarchy Patterns": {
+        "Dominance Ladder": {},
+        "Linear Hierarchy": {},
+        "Despotic vs Egalitarian": {},
+        "Caste / Role Division": {},
+        "Task Allocation": {}
+      },
+      "Network Topologies": {
+        "Centralized": {},
+        "Modular": {},
+        "Distributed": {},
+        "Scale‑Free": {}
+      },
+      "Interaction Modes": {
+        "Co‑operation": {},
+        "Competition": {},
+        "Mutualism": {},
+        "Commensalism": {},
+        "Parasitism": {},
+        "Predation": {}
+      },
+      "Communication Channels": {
+        "Chemical Signal": {},
+        "Acoustic Signal": {},
+        "Visual Display": {},
+        "Electrical Signal": {},
+        "Vibrational Signal": {}
+      }
+    }
+  }
+}

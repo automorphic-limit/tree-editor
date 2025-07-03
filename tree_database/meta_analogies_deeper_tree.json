@@ -1,0 +1,291 @@
+{
+  "Meta-Analogies": {
+    "Type-Level Analogies": {
+      "Structural ↔ Functional": {
+        "Mechanism Mapping": {
+          "Mechanical Advantage ↔ Computational Efficiency": {},
+          "Load‑Bearing ↔ Reliability": {}
+        },
+        "Tradeoff Spectrum": {
+          "Weight ↔ Speed": {},
+          "Cost ↔ Quality": {}
+        },
+        "Isomorphic Dynamics": {
+          "Differential Equation ↔ State Machine": {},
+          "Resonance ↔ Feedback Loop": {}
+        }
+      },
+      "Process ↔ State": {
+        "Flow ↔ Stock": {
+          "Cash Flow ↔ Balance Sheet": {},
+          "Blood Flow ↔ Blood Volume": {}
+        },
+        "Kinetic ↔ Thermodynamic": {
+          "Reaction Rate ↔ Equilibrium Constant": {},
+          "Market Momentum ↔ Price Level": {}
+        },
+        "Transient ↔ Steady": {
+          "Startup Surge ↔ Baseline Load": {},
+          "Learning Phase ↔ Expert Performance": {}
+        }
+      },
+      "Quantitative ↔ Qualitative": {
+        "Metric Analogy": {
+          "Distance ↔ Similarity Score": {},
+          "Energy ↔ Cost Function": {}
+        },
+        "Ordinal Analogy": {
+          "Ranking ↔ Preference Scale": {},
+          "Severity Level ↔ Risk Tier": {}
+        },
+        "Categorical Analogy": {
+          "Species ↔ File Type": {},
+          "Genre ↔ Data Label": {}
+        },
+        "Fuzzy Analogy": {
+          "Gray Zone ↔ Probabilistic Class": {},
+          "Partially True ↔ Confidence Interval": {}
+        }
+      },
+      "Discrete ↔ Continuous": {
+        "Digital Sampling ↔ Analog Signal": {
+          "Frame Rate ↔ Motion Blur": {},
+          "Bit Depth ↔ Dynamic Range": {}
+        },
+        "Particle Count ↔ Field Density": {
+          "Molecular Simulation ↔ Continuum Fluid": {},
+          "Crowd Agent ↔ Population Density": {}
+        }
+      }
+    },
+
+    "Cross-Domain Analogies of Analogies": {
+      "Physics ↔ Economics": {
+        "Energy Flow ↔ Money Flow": {
+          "Power ↔ Cash Rate": {},
+          "Potential Energy ↔ Stored Capital": {}
+        },
+        "Phase Transition ↔ Market Crash": {
+          "Critical Point ↔ Tipping Point": {},
+          "Latent Heat ↔ Hidden Liquidity": {}
+        },
+        "Entropy ↔ Inequality Index": {
+          "Maxwell Demon ↔ Insider Trading": {},
+          "Thermal Death ↔ Market Saturation": {}
+        }
+      },
+      "Biology ↔ Engineering": {
+        "Natural Selection ↔ Design Iteration": {
+          "Mutation ↔ Prototype Variation": {},
+          "Selection Pressure ↔ User Testing": {}
+        },
+        "Neural Wiring ↔ Circuit Layout": {
+          "Synaptic Pruning ↔ Wire Routing": {},
+          "Neuroplasticity ↔ Field‑Programmable Logic": {}
+        },
+        "Gene Regulation ↔ Feedback Controller": {
+          "Promoter ↔ PID Gain": {},
+          "Repressor ↔ Damping Term": {}
+        }
+      },
+      "Narrative ↔ Music": {
+        "Story Arc ↔ Sonata Form": {
+          "Exposition ↔ Theme A": {},
+          "Climax ↔ Development": {}
+        },
+        "Character Motif ↔ Leitmotif": {
+          "Theme Variation ↔ Character Growth": {},
+          "Recurring Motif ↔ Refrain": {}
+        },
+        "Plot Twist ↔ Modulation": {
+          "Foreshadow ↔ Dominant Prep": {},
+          "Resolution ↔ Tonic Return": {}
+        }
+      },
+      "Language ↔ Mathematics": {
+        "Grammar Rule ↔ Inference Rule": {
+          "Syntax Tree ↔ Proof Tree": {},
+          "Agreement Rule ↔ Unification": {}
+        },
+        "Sentence Parse ↔ Expression Tree": {
+          "Noun Phrase ↔ Term": {},
+          "Verb Phrase ↔ Operator": {}
+        }
+      }
+    },
+
+    "Analogy Construction Processes": {
+      "Retrieval Stage ↔ Data Mining": {
+        "Cue‑Based Search": {
+          "Spreading Activation": {},
+          "Keyword Match": {}
+        },
+        "Semantic Vector Search": {
+          "Embedding Similarity": {},
+          "Latent Topic Match": {}
+        }
+      },
+      "Alignment Stage ↔ Graph Matching": {
+        "Structure Mapping": {
+          "Node Correspondence": {},
+          "Edge Relation Match": {}
+        },
+        "Constraint Satisfaction": {
+          "One‑To‑One Mapping": {},
+          "Goal‑Directed Search": {}
+        }
+      },
+      "Mapping Stage ↔ Functor Application": {
+        "Homomorphic Transfer": {
+          "Operation Preservation": {},
+          "Identity Preservation": {}
+        },
+        "Schema Projection": {
+          "Fill Slots": {},
+          "Instantiate Roles": {}
+        }
+      },
+      "Evaluation Stage ↔ Model Selection": {
+        "Fit Scoring": {
+          "Analogy Quality Index": {},
+          "Error Metric": {}
+        },
+        "Simplicity Bias": {
+          "Minimum Description Length": {},
+          "Occam Filter": {}
+        }
+      },
+      "Adaptation Stage ↔ Domain Adaptation": {
+        "Parameter Tuning": {
+          "Hyperparameter Search": {},
+          "Meta‑Learning Update": {}
+        },
+        "Refinement Loop": {
+          "Iterative Feedback": {},
+          "Error‑Driven Adjustment": {}
+        }
+      }
+    },
+
+    "Analogy Evaluation Metrics": {
+      "Surface ↔ Structural": {
+        "Literal Similarity": {
+          "Feature Overlap": {},
+          "Shape Similarity": {}
+        },
+        "Deep Relational Match": {
+          "Causal Alignment": {},
+          "Constraint Isomorphism": {}
+        }
+      },
+      "Generative Power ↔ Predictive Accuracy": {
+        "Explanatory Reach": {
+          "Transfer Range": {},
+          "Generality Score": {}
+        },
+        "Forecast Skill": {
+          "RMSE": {},
+          "AUC": {}
+        }
+      },
+      "Cognitive Plausibility ↔ Computational Efficiency": {
+        "Working Memory Load": {
+          "Chunk Count": {},
+          "Processing Depth": {}
+        },
+        "Algorithmic Complexity": {
+          "Time Complexity": {},
+          "Space Complexity": {}
+        }
+      },
+      "Creativity ↔ Fidelity": {
+        "Novelty Score": {
+          "Unexpectedness": {},
+          "Surprise Index": {}
+        },
+        "Faithful Mapping": {
+          "Constraint Obedience": {},
+          "No Over‑Fitting": {}
+        }
+      }
+    },
+
+    "Generative Meta-Analogies": {
+      "Metaphor Generator ↔ Analogy Generator": {
+        "Template‑Based": {
+          "Analogical Frame": {},
+          "Slot Value": {}
+        },
+        "Probabilistic": {
+          "Bayesian Analogy": {},
+          "Markov Chain Sampler": {}
+        },
+        "Neural Transformer": {
+          "Encoder‑Decoder": {},
+          "Attention Mechanism": {}
+        }
+      },
+      "Transfer Learning ↔ Case‑Based Reasoning": {
+        "Feature Reuse": {
+          "Frozen Layers": {},
+          "Fine‑Tuning": {}
+        },
+        "Instance Retrieval": {
+          "Nearest Neighbor": {},
+          "Prototype Memory": {}
+        }
+      },
+      "Conceptual Blending ↔ Feature Synthesis": {
+        "Blend Space Search": {
+          "Cross‑Product Space": {},
+          "Constraint Filter": {}
+        },
+        "Attribute Combination": {
+          "Linear Blend": {},
+          "Non‑Linear Morph": {}
+        }
+      }
+    },
+
+    "Symmetry of Analogical Roles": {
+      "Source ↔ Target": {
+        "Forward Mapping": {
+          "Projection Operator": {},
+          "Analogy Directionality": {}
+        },
+        "Backward Mapping": {
+          "Analogy Reversal": {},
+          "Bidirectional Reasoning": {}
+        },
+        "Round‑Trip Consistency": {
+          "Inverse Consistency": {},
+          "Cycle Closure": {}
+        }
+      },
+      "Base Analogy ↔ Extension": {
+        "Schema Injection": {
+          "Variable Bind": {},
+          "Slot Addition": {}
+        },
+        "Analogical Chain": {
+          "Multi‑Hop Mapping": {},
+          "Bridge Analogy": {}
+        },
+        "Analogy Network": {
+          "Graph of Analogies": {},
+          "Central Analogy Hub": {}
+        }
+      },
+      "Macro ↔ Micro Analogy": {
+        "Global Theme ↔ Local Detail": {
+          "High‑Level Pattern": {},
+          "Micro‑Motif": {}
+        },
+        "Pattern ↔ Motif": {
+          "Repeated Figure": {},
+          "Unique Variation": {}
+        }
+      }
+    }
+  }
+}

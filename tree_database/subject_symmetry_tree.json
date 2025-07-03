@@ -1,0 +1,98 @@
+{
+  "Symmetry Trees": {
+    "Mathematical Symmetries": {
+      "Group Theory": {
+        "Cyclic Symmetry": {
+          "Polygon Rotation in Geometry": {},
+          "Periodic Table Periodicity": {}
+        },
+        "Dihedral Symmetry": {
+          "Molecular Chirality": {},
+          "Crystal Lattice": {}
+        },
+        "Lie Groups": {
+          "Gauge Symmetry in Physics": {},
+          "Robotics Joint Space": {}
+        }
+      },
+      "Dualities": {
+        "Wave‑Particle Duality": {},
+        "Electric‑Magnetic Duality": {},
+        "Position‑Momentum (Fourier)": {},
+        "Time‑Frequency in Signal Processing": {}
+      },
+      "Conservation Symmetry (Noether)": {
+        "Energy‑Time": {},
+        "Momentum‑Space": {},
+        "Charge‑Phase": {},
+        "Information‑Entropy": {}
+      }
+    },
+
+    "Cross‑Disciplinary Structural Symmetries": {
+      "Fractals": {
+        "River Network vs Blood Vessels": {},
+        "Coastline Geometry vs Market Fluctuation": {},
+        "Fern Leaf vs Diffusion‑Limited Aggregation": {}
+      },
+      "Scale‑Free Networks": {
+        "Internet Topology": {},
+        "Brain Connectome": {},
+        "Social Graph": {}
+      },
+      "Feedback Loops": {
+        "Cybernetic Control Systems": {},
+        "Homeostasis in Biology": {},
+        "Economic Supply‑Demand": {}
+      },
+      "Layered Architectures": {
+        "OSI Network Model": {},
+        "Cortical Brain Layers": {},
+        "Sedimentary Rock Strata": {}
+      }
+    },
+
+    "Humanities & Arts Symmetries": {
+      "Narrative Arcs": {
+        "Freytag Pyramid vs Sonata Form": {},
+        "Hero’s Journey vs Spiritual Pilgrimage": {}
+      },
+      "Rhythmic Patterns": {
+        "Poetic Meter vs Musical Time Signature": {},
+        "Breathing Cycle in Meditation vs Dance Phrase": {}
+      },
+      "Visual Composition": {
+        "Golden Ratio in Painting": {},
+        "Rule of Thirds in Photography": {},
+        "Symmetry in Architecture": {}
+      }
+    },
+
+    "Engineering & Biology Analogues": {
+      "Biomimicry": {
+        "Bird Wing vs Airfoil": {},
+        "Lotus Leaf vs Hydrophobic Coating": {},
+        "Gecko Foot vs Adhesive Surface": {}
+      },
+      "Flow Dynamics": {
+        "Blood Circulation vs Plumbing": {},
+        "Airflow over Car vs Dolphin Hydrodynamics": {}
+      },
+      "Structural Mechanics": {
+        "Bone Trabeculae vs Truss Bridge": {},
+        "Spiral Shell vs Logarithmic Antenna": {}
+      }
+    },
+
+    "Philosophical & Conceptual Symmetries": {
+      "Dialectics": {
+        "Thesis‑Antithesis‑Synthesis": {},
+        "Yin‑Yang Duality": {}
+      },
+      "Epistemic Mirrors": {
+        "Observer Effect in Physics vs Reflexivity in Sociology": {},
+        "Gödel Self‑Reference vs Literary Metafiction": {}
+      }
+    }
+  }
+}

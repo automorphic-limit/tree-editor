@@ -1,0 +1,138 @@
+{
+  "WEIRD": {
+    "Western": {
+      "Regions": {
+        "North America": {
+          "USA": {},
+          "Canada": {}
+        },
+        "Western Europe": {
+          "UK": {},
+          "Germany": {},
+          "France": {}
+        },
+        "Australasia": {
+          "Australia": {},
+          "New Zealand": {}
+        }
+      },
+      "Historical Roots": {
+        "Greco‑Roman Heritage": {},
+        "Christian Tradition": {},
+        "Enlightenment Values": {}
+      },
+      "Cultural Patterns": {
+        "Individualism": {},
+        "Analytic Cognition": {},
+        "Low Power Distance": {}
+      }
+    },
+
+    "Educated": {
+      "Formal Education Levels": {
+        "Primary": {},
+        "Secondary": {},
+        "Tertiary": {}
+      },
+      "Systems": {
+        "Compulsory Schooling": {},
+        "University Model": {},
+        "Mass Literacy": {}
+      },
+      "Cognitive Effects": {
+        "Abstract Reasoning": {},
+        "Decontextualized Logic": {},
+        "Scientific Worldview": {}
+      }
+    },
+
+    "Industrialized": {
+      "Economic Sectors": {
+        "Manufacturing": {},
+        "Services": {},
+        "High‑Tech": {}
+      },
+      "Infrastructure": {
+        "Urbanization": {},
+        "Transportation Networks": {},
+        "Energy Grids": {}
+      },
+      "Labor Patterns": {
+        "Wage Employment": {},
+        "Occupational Specialization": {},
+        "Unionization": {}
+      }
+    },
+
+    "Rich": {
+      "Income Metrics": {
+        "GDP per Capita": {},
+        "Median Household Income": {}
+      },
+      "Wealth Distribution": {
+        "Gini Coefficient": {},
+        "Middle Class Size": {}
+      },
+      "Living Standards": {
+        "Healthcare Access": {},
+        "Housing Quality": {},
+        "Food Security": {}
+      }
+    },
+
+    "Democratic": {
+      "Political Institutions": {
+        "Representative Government": {},
+        "Rule of Law": {},
+        "Civil Liberties": {}
+      },
+      "Participation Mechanisms": {
+        "Elections": {},
+        "Referenda": {},
+        "Civic Organizations": {}
+      },
+      "Governance Norms": {
+        "Transparency": {},
+        "Accountability": {},
+        "Checks and Balances": {}
+      }
+    },
+
+    "Psychological Profiles": {
+      "Self‑Construal": {
+        "Independent Self": {},
+        "Low Context Communication": {}
+      },
+      "Moral Reasoning": {
+        "Principled Ethics": {},
+        "Universalist Values": {}
+      },
+      "Prosocial Behavior": {
+        "Impersonal Trust": {},
+        "Fairness Norms": {}
+      }
+    },
+
+    "Global Contrasts": {
+      "Non‑WEIRD Regions": {
+        "Global South": {},
+        "Eastern Societies": {},
+        "Indigenous Peoples": {}
+      },
+      "Cognitive Differences": {
+        "Holistic Thought": {},
+        "Relational Self": {}
+      },
+      "Socioeconomic Variation": {
+        "Informal Economies": {},
+        "Collectivist Norms": {}
+      }
+    },
+
+    "Critiques & Limitations": {
+      "Sampling Bias": {},
+      "Cultural Imperialism": {},
+      "Ecological Validity": {}
+    }
+  }
+}

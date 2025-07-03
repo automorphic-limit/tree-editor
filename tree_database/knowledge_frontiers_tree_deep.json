@@ -1,0 +1,293 @@
+{
+  "Knowledge Frontiers": {
+    "Fundamental Physics": {
+      "Quantum Gravity": {
+        "Unification Frameworks": {
+          "String Theory Landscape": {
+            "Vacua Statistics": {},
+            "Moduli Stabilization": {}
+          },
+          "Loop Quantum Gravity": {
+            "Spin Foam Dynamics": {},
+            "Area/Volume Spectra": {}
+          },
+          "Asymptotic Safety": {
+            "Non-Gaussian Fixed Point": {},
+            "Effective Field Flow": {}
+          }
+        },
+        "Experimental Windows": {
+          "Planck-Scale Signatures": {},
+          "Graviton Detection Schemes": {},
+          "Black Hole Information": {}
+        }
+      },
+      "Dark Sector": {
+        "Dark Matter Candidates": {
+          "WIMPs": {},
+          "Axions": {},
+          "Sterile Neutrinos": {},
+          "Ultralight Scalars": {}
+        },
+        "Detection Strategies": {
+          "Direct Detection": {},
+          "Indirect Gamma Signals": {},
+          "Collider Production": {}
+        },
+        "Dark Energy Models": {
+          "Quintessence Field": {},
+          "Modified Gravity f(R)": {},
+          "Holographic Dark Energy": {}
+        }
+      },
+      "Standard Model Limits": {
+        "Neutrino Physics": {
+          "Majorana vs Dirac": {},
+          "Neutrinoless Double Beta": {}
+        },
+        "Flavor Puzzle": {
+          "Yukawa Hierarchy": {},
+          "CKM CP Phase": {}
+        },
+        "Strong CP Problem": {
+          "Axion Solution": {},
+          "Nelson-Barr Models": {}
+        }
+      }
+    },
+
+    "Cosmology": {
+      "Early Universe": {
+        "Inflationary Mechanisms": {
+          "Single-Field Slow Roll": {},
+          "Multi-Field Dynamics": {},
+          "Alternatives (Ekpyrotic)": {}
+        },
+        "Primordial Perturbations": {
+          "Non-Gaussianity": {},
+          "Isocurvature Modes": {}
+        },
+        "Baryogenesis Paths": {
+          "Leptogenesis": {},
+          "Electroweak Baryogenesis": {}
+        }
+      },
+      "Large-Scale Structure": {
+        "Hubble Tension Resolutions": {
+          "Early Dark Energy": {},
+          "Systematic Biases": {}
+        },
+        "Cosmic Web Mapping": {
+          "21cm Tomography": {},
+          "Weak Lensing Surveys": {}
+        }
+      },
+      "Ultimate Fate": {
+        "Dark Energy Equation of State": {},
+        "Vacuum Metastability": {},
+        "Heat Death Timescales": {}
+      }
+    },
+
+    "Earth & Climate": {
+      "Climate Sensitivity": {
+        "Cloud Microphysics": {
+          "Aerosol Indirect Effects": {},
+          "Convective Parameterization": {}
+        },
+        "Ocean Heat Uptake": {
+          "AMOC Variability": {},
+          "Submesoscale Mixing": {}
+        }
+      },
+      "Extreme Geo-Hazards": {
+        "Earthquake Forecasting": {
+          "Slow Slip Precursors": {},
+          "Machine-Learning Seismology": {}
+        },
+        "Supervolcano Monitoring": {
+          "Magma Chamber Imaging": {},
+          "Outgassing Indicators": {}
+        }
+      },
+      "Anthropocene Dynamics": {
+        "Climate Tipping Elements": {
+          "Permafrost Thaw": {},
+          "AMOC Collapse": {},
+          "Amazon Dieback": {}
+        },
+        "Carbon Sequestration Limits": {
+          "Soil Carbon Saturation": {},
+          "Ocean Alkalanity": {}
+        }
+      }
+    },
+
+    "Life Sciences": {
+      "Origin of Life": {
+        "Prebiotic Chemistry Pathways": {
+          "Formamide Chemistry": {},
+          "Hydrothermal Vent Synthesis": {}
+        },
+        "Protocell Models": {
+          "Lipid Vesicle Growth": {},
+          "RNA Replicase Emergence": {}
+        }
+      },
+      "Systems & Synthetic Biology": {
+        "Protein Folding Code": {
+          "AlphaFold Limitations": {},
+          "Chaperone Networks": {}
+        },
+        "Morphogenesis Rules": {
+          "Positional Information": {},
+          "Turing Patterns in Vivo": {}
+        },
+        "Microbiome-Host Interactions": {
+          "Gut-Brain Axis": {},
+          "Metabolomic Crosstalk": {}
+        }
+      },
+      "Neuroscience": {
+        "Consciousness Theories": {
+          "Integrated Information": {},
+          "Recurrent Global Workspace": {}
+        },
+        "Memory Mechanisms": {
+          "Engram Cell Tagging": {},
+          "Synaptic Consolidation": {}
+        },
+        "Brain Simulation": {
+          "Whole Mouse Connectome": {},
+          "Human Cortical Column Model": {}
+        }
+      },
+      "Aging & Longevity": {
+        "Senescence Pathways": {
+          "SASP Modulation": {},
+          "Telomere Dynamics": {}
+        },
+        "Rejuvenation Strategies": {
+          "Partial Reprogramming": {},
+          "Senolytics": {}
+        }
+      }
+    },
+
+    "Medicine & Health": {
+      "Complex Diseases": {
+        "Cancer Evolution": {
+          "Tumor Heterogeneity Mapping": {},
+          "Microenvironment Crosstalk": {}
+        },
+        "Neurodegeneration": {
+          "Protein Aggregates Propagation": {},
+          "Glial Inflammation": {}
+        }
+      },
+      "Pandemic Preparedness": {
+        "Spillover Prediction Models": {},
+        "Pan-Coronavirus Vaccine": {},
+        "Wastewater Surveillance": {}
+      },
+      "Regenerative Medicine": {
+        "Bioengineered Organs": {
+          "Decellularized Scaffolds": {},
+          "3D Bioprinting": {}
+        },
+        "Stem-Cell Fate Control": {
+          "Directed Differentiation": {},
+          "Organoid Assembly": {}
+        }
+      }
+    },
+
+    "Technology & Computation": {
+      "Artificial General Intelligence": {
+        "Alignment Research": {
+          "Value Learning": {},
+          "Scalable Oversight": {}
+        },
+        "Emergent Agency": {
+          "Goal Misgeneralization": {},
+          "Deception Risk": {}
+        },
+        "Interpretability": {
+          "Mechanistic Transparency": {},
+          "Neural Circuit Dissection": {}
+        }
+      },
+      "Quantum Computing": {
+        "Fault-Tolerant Architectures": {
+          "Surface Codes": {},
+          "Topological Qubits": {}
+        },
+        "Quantum Advantage Benchmarks": {
+          "Random Circuit Sampling": {},
+          "Optimization Speedup": {}
+        }
+      },
+      "Molecular Nanotechnology": {
+        "Atomic Precision Fabrication": {
+          "Scanning Probe Patterning": {},
+          "DNA Origami Assembly": {}
+        },
+        "Self-Replicating Systems": {
+          "Exponential Manufacturing": {},
+          "Containment Protocols": {}
+        }
+      }
+    },
+
+    "Mathematics & Logic": {
+      "Millennium Problems": {
+        "Riemann Hypothesis": {
+          "Zero-Free Regions": {},
+          "Random Matrix Analogies": {}
+        },
+        "P vs NP": {
+          "Circuit Lower Bounds": {},
+          "Interactive Proof Techniques": {}
+        },
+        "Yang–Mills Mass Gap": {
+          "Lattice Gauge Evidence": {},
+          "Topological Quantum Field": {}
+        }
+      },
+      "Set Theory & Foundations": {
+        "Large Cardinals": {
+          "Woodin Cardinals": {},
+          "Supercompact": {}
+        },
+        "Continuum Hypothesis Landscape": {
+          "Forcing Axioms": {},
+          "Ultimate L Program": {}
+        }
+      },
+      "Algorithmic Randomness": {
+        "Incompressibility Methods": {},
+        "Diophantine Complexity": {}
+      }
+    },
+
+    "Social & Cognitive Sciences": {
+      "Consciousness & Ethics": {
+        "Animal Sentience Grading": {},
+        "AI Moral Status": {},
+        "Cross-Cultural Ethics": {}
+      },
+      "Societal Complexity": {
+        "Agent-Based Civilization Simulation": {},
+        "Cascade Prediction": {},
+        "Institutional Resilience": {}
+      },
+      "Economics & Behavior": {
+        "Market Bubbles Genesis": {},
+        "Behavioral Bias Limits": {
+          "Hyperbolic Discounting Bounds": {},
+          "Social Influence Thresholds": {}
+        }
+      }
+    }
+  }
+}

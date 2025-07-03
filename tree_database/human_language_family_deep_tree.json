@@ -1,0 +1,188 @@
+{
+  "Human Languages": {
+    "Indo‑European": {
+      "Germanic": {
+        "West Germanic": {
+          "English": {
+            "Historical Stages": {
+              "Old English": {},
+              "Middle English": {},
+              "Early Modern English": {},
+              "Modern English": {}
+            },
+            "Dialects": {
+              "British": {
+                "Received Pronunciation": {},
+                "Estuary English": {}
+              },
+              "American": {
+                "General American": {},
+                "Southern American": {},
+                "AAVE": {}
+              },
+              "Australian": {},
+              "Indian English": {}
+            }
+          },
+          "German": {
+            "Historical Stages": {
+              "Old High German": {},
+              "Middle High German": {},
+              "Early New High German": {},
+              "Modern German": {}
+            },
+            "Dialects": {
+              "High German": {
+                "Alemannic": {},
+                "Bavarian": {}
+              },
+              "Low German": {},
+              "Swiss German": {}
+            }
+          },
+          "Dutch": {
+            "Standard Dutch": {},
+            "Flemish": {},
+            "Afrikaans": {}
+          }
+        },
+        "North Germanic": {
+          "Swedish": {
+            "Standard Swedish": {},
+            "Scanian": {}
+          },
+          "Danish": {},
+          "Norwegian": {
+            "Bokmål": {},
+            "Nynorsk": {}
+          },
+          "Icelandic": {
+            "Old Norse": {},
+            "Modern Icelandic": {}
+          }
+        }
+      },
+      "Romance": {
+        "Western Romance": {
+          "Spanish": {
+            "Castilian": {},
+            "Andalusian": {},
+            "Latin American": {}
+          },
+          "Portuguese": {
+            "European": {},
+            "Brazilian": {}
+          },
+          "French": {
+            "Metropolitan": {},
+            "Quebec French": {},
+            "African French": {}
+          }
+        },
+        "Italo‑Dalmatian": {
+          "Italian": {
+            "Tuscan": {},
+            "Neapolitan": {},
+            "Sicilian": {}
+          }
+        }
+      },
+      "Slavic": {
+        "South Slavic": {
+          "Serbo‑Croatian": {
+            "Serbian": {},
+            "Croatian": {},
+            "Bosnian": {},
+            "Montenegrin": {}
+          },
+          "Bulgarian": {},
+          "Slovenian": {}
+        }
+      }
+    },
+
+    "Sino‑Tibetan": {
+      "Sinitic": {
+        "Mandarin": {
+          "Standard (Putonghua)": {},
+          "Beijing": {},
+          "Southwestern": {},
+          "Taiwanese Mandarin": {}
+        },
+        "Cantonese": {
+          "Guangzhou": {},
+          "Hong Kong": {}
+        },
+        "Wu": {
+          "Shanghainese": {}
+        }
+      }
+    },
+
+    "Afro‑Asiatic": {
+      "Semitic": {
+        "Arabic": {
+          "Classical": {},
+          "Modern Standard": {},
+          "Dialects": {
+            "Egyptian": {},
+            "Levantine": {},
+            "Gulf": {},
+            "Maghrebi": {}
+          }
+        },
+        "Hebrew": {
+          "Biblical": {},
+          "Modern": {}
+        }
+      }
+    },
+
+    "Niger‑Congo": {
+      "Bantu": {
+        "Swahili": {
+          "Standard": {},
+          "Congolese": {}
+        },
+        "Zulu": {},
+        "Shona": {}
+      }
+    },
+
+    "Austronesian": {
+      "Malayo‑Polynesian": {
+        "Tagalog": {
+          "Filipino (Standard)": {},
+          "Batangas": {}
+        },
+        "Malay": {
+          "Bahasa Malaysia": {},
+          "Indonesian": {}
+        },
+        "Javanese": {
+          "Ngoko": {},
+          "Krama": {}
+        }
+      }
+    },
+
+    "Language Isolates": {
+      "Japanese": {
+        "Old Japanese": {},
+        "Early Middle": {},
+        "Modern": {
+          "Tokyo Dialect": {},
+          "Kansai": {}
+        }
+      },
+      "Korean": {
+        "Middle Korean": {},
+        "Modern": {}
+      },
+      "Basque": {
+        "Northern": {},
+        "Southern": {}
+      }
+    }
+  }
+}

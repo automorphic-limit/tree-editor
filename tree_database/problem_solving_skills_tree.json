@@ -1,0 +1,96 @@
+{
+  "Problem Solving Methods": {
+    "Analytical Skills": {
+      "Logical Reasoning": {
+        "Deductive": {},
+        "Inductive": {},
+        "Abductive": {}
+      },
+      "Critical Thinking": {
+        "Argument Analysis": {},
+        "Bias Detection": {},
+        "Fallacy Identification": {}
+      },
+      "Quantitative Analysis": {
+        "Estimation": {},
+        "Mathematical Modeling": {},
+        "Optimization": {}
+      }
+    },
+
+    "Creative Skills": {
+      "Divergent Thinking": {
+        "Brainstorming": {},
+        "SCAMPER": {},
+        "Random Stimulus": {}
+      },
+      "Convergent Thinking": {
+        "Decision Matrix": {},
+        "Morphological Analysis": {}
+      },
+      "Analogical Reasoning": {
+        "Metaphor Mapping": {},
+        "Synectics": {}
+      }
+    },
+
+    "Structured Frameworks": {
+      "Scientific Method": {
+        "Hypothesis": {},
+        "Experiment": {},
+        "Analysis": {},
+        "Conclusion": {}
+      },
+      "Engineering Design Process": {
+        "Define": {},
+        "Ideate": {},
+        "Prototype": {},
+        "Test": {}
+      },
+      "TRIZ": {
+        "Contradiction Matrix": {},
+        "40 Inventive Principles": {}
+      },
+      "Lean Six Sigma": {
+        "DMAIC": {
+          "Define": {},
+          "Measure": {},
+          "Analyze": {},
+          "Improve": {},
+          "Control": {}
+        }
+      }
+    },
+
+    "Heuristic Approaches": {
+      "Means‑Ends Analysis": {},
+      "Hill Climbing": {},
+      "Divide and Conquer": {},
+      "Backtracking": {},
+      "Constraint Relaxation": {}
+    },
+
+    "Decision‑Making Techniques": {
+      "Multi‑Criteria Decision Analysis": {},
+      "Cost‑Benefit Analysis": {},
+      "Risk Assessment": {},
+      "Game Theory": {}
+    },
+
+    "Collaborative Methods": {
+      "Delphi Method": {},
+      "Brainwriting": {},
+      "Nominal Group Technique": {},
+      "SWOT Workshop": {}
+    },
+
+    "Learning & Reflection": {
+      "Root Cause Analysis": {
+        "5 Whys": {},
+        "Fishbone Diagram": {}
+      },
+      "Post‑mortem Review": {},
+      "Knowledge Transfer": {}
+    }
+  }
+}

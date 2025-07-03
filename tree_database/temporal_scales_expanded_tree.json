@@ -1,0 +1,208 @@
+{
+  "Temporal Scales": {
+    "Physical Time Scales": {
+      "Quantum": {
+        "Planck Time (10^-44 s)": {},
+        "Quantum Decoherence": {},
+        "Virtual Particle Lifetime": {},
+        "Photon Emission": {}
+      },
+      "Atomic & Molecular": {
+        "Electron Transition (fs)": {},
+        "Molecular Vibration (ps)": {},
+        "Rotational Period (ns)": {},
+        "Chemical Bond Formation (μs)": {}
+      },
+      "Mesoscopic": {
+        "Nanoparticle Plasmon (fs)": {},
+        "Superconducting Qubit Coherence (μs)": {}
+      },
+      "Macroscopic Classical": {
+        "Sound Wave Period (ms)": {},
+        "Lightning Stroke (μs)": {},
+        "Seismic P-Wave (s)": {}
+      },
+      "Astrophysical": {
+        "Pulsar Rotation (ms)": {},
+        "Solar Flare Rise (min)": {},
+        "Planetary Day": {},
+        "Orbital Period": {}
+      }
+    },
+
+    "Geologic Time Scales": {
+      "Radiometric Half-Lives": {
+        "C-14 (5.7 kyr)": {},
+        "K-40 (1.25 byr)": {},
+        "U-238 (4.5 byr)": {}
+      },
+      "Stratigraphic Hierarchy": {
+        "Eon": {
+          "Hadean": {},
+          "Archean": {},
+          "Proterozoic": {},
+          "Phanerozoic": {}
+        },
+        "Era": {
+          "Paleozoic": {},
+          "Mesozoic": {},
+          "Cenozoic": {}
+        },
+        "Period": {
+          "Cambrian": {},
+          "Jurassic": {},
+          "Quaternary": {}
+        },
+        "Epoch": {
+          "Holocene": {},
+          "Anthropocene (proposed)": {}
+        },
+        "Age / Stage": {}
+      },
+      "Geodynamic Cycles": {
+        "Wilson Cycle (~500 Myr)": {},
+        "Supercontinent Cycle": {},
+        "Glacial-Interglacial (~100 kyr)": {}
+      },
+      "Catastrophic Events": {
+        "Supervolcano Eruption": {},
+        "Meteor Impact Recurrence": {}
+      }
+    },
+
+    "Biological Time Scales": {
+      "Molecular & Cellular": {
+        "Protein Folding (μs-ms)": {},
+        "Gene Transcription (min)": {},
+        "Cell Cycle (hrs)": {},
+        "Apoptosis (hrs)": {}
+      },
+      "Physiological Cycles": {
+        "Neuron Spike (ms)": {},
+        "Heartbeat (s)": {},
+        "Respiration (s)": {},
+        "Circadian Rhythm (24 h)": {},
+        "Menstrual Cycle (~28 d)": {}
+      },
+      "Developmental": {
+        "Embryogenesis": {},
+        "Metamorphosis": {},
+        "Puberty": {}
+      },
+      "Population & Ecosystem": {
+        "Bloom Event": {},
+        "Predator-Prey Oscillation": {},
+        "Forest Succession (decades-centuries)": {}
+      },
+      "Evolutionary": {
+        "Microevolution (generations)": {},
+        "Speciation (kyr-Myr)": {}
+      }
+    },
+
+    "Psychological & Cognitive Time Scales": {
+      "Perception": {
+        "Flicker Fusion (~20 ms)": {},
+        "Moment of Auditory Perception (~100 ms)": {}
+      },
+      "Working Memory": {
+        "Phonological Loop (~2 s)": {},
+        "Visuo-Spatial Sketchpad (~0.5 s)": {}
+      },
+      "Attention Span": {
+        "Sustained Attention (~20 min)": {}
+      },
+      "Learning & Skill Consolidation": {
+        "Motor Learning (hrs)": {},
+        "Long-Term Potentiation (hrs-days)": {}
+      }
+    },
+
+    "Human Cultural Time Scales": {
+      "Daily & Calendrical": {
+        "Second": {},
+        "Minute": {},
+        "Hour": {},
+        "Day": {},
+        "Week": {},
+        "Month": {},
+        "Year": {},
+        "Leap Cycle (4 yr)": {}
+      },
+      "Socio-economic": {
+        "Work Shift (8 h)": {},
+        "School Term": {},
+        "Fiscal Quarter (3 mo)": {},
+        "Business Cycle (~7 yr)": {}
+      },
+      "Historical Eras": {
+        "Generation (~25 yr)": {},
+        "Saeculum (~90 yr)": {},
+        "Century": {},
+        "Millennium": {}
+      }
+    },
+
+    "Technological Time Scales": {
+      "Digital Systems": {
+        "CPU Clock (ns)": {},
+        "Cache Latency (ns)": {},
+        "SSD Access (μs)": {},
+        "Network Ping (ms)": {}
+      },
+      "Mechanical Systems": {
+        "Camera Shutter (μs-ms)": {},
+        "Engine Cycle (ms)": {},
+        "Robotic Actuation (ms-s)": {}
+      },
+      "Infrastructure": {
+        "Power Grid Frequency (20 ms)": {},
+        "Train Schedule": {},
+        "Satellite Launch Window": {}
+      },
+      "Innovation Cycles": {
+        "Moore's Law (~18 mo)": {},
+        "Technology Adoption S-Curve (decades)": {}
+      }
+    },
+
+    "Climate & Environmental Time Scales": {
+      "Weather": {
+        "Turbulent Eddy (s)": {},
+        "Storm Cell (hrs)": {},
+        "Frontal Passage (days)": {}
+      },
+      "Oceanic": {
+        "Surface Wave (s)": {},
+        "El Niño (2-7 yr)": {},
+        "Thermohaline Conveyor (1 kyr)": {}
+      },
+      "Atmospheric Cycles": {
+        "Madden-Julian Oscillation (~50 d)": {},
+        "Quasi-Biennial Oscillation": {},
+        "Milankovitch Cycles (kyr-100 kyr)": {}
+      }
+    },
+
+    "Cosmological Time Scales": {
+      "Early Universe": {
+        "Inflation (10^-32 s)": {},
+        "CMB Decoupling (380 kyr)": {}
+      },
+      "Stellar Evolution": {
+        "Massive Star Lifetime (Myr)": {},
+        "Sun-like Star (10 Gyr)": {}
+      },
+      "Galactic & Large-Scale": {
+        "Galaxy Rotation (100 Myr)": {},
+        "Galaxy Merger (Gyr)": {},
+        "Cluster Relaxation": {}
+      },
+      "Ultimate Fate": {
+        "Proton Decay (10^34 yr?)": {},
+        "Black Hole Evaporation (10^100 yr)": {},
+        "Heat Death (10^1000 yr)": {}
+      }
+    }
+  }
+}

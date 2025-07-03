@@ -1,0 +1,120 @@
+{
+  "Symmetry Trees": {
+    "Mathematical Symmetries": {
+      "Group Theory": {
+        "Cyclic Symmetry": {
+          "Polygon Rotation": {},
+          "Periodic Phenomena": {}
+        },
+        "Dihedral Symmetry": {
+          "Molecular Isomer": {},
+          "Crystal Lattice": {}
+        },
+        "Lie Groups": {
+          "Gauge Symmetry": {},
+          "Continuous Robotics Joint": {}
+        }
+      },
+      "Adjunctions": {
+        "Free‑Forgetful Pairs": {
+          "Set ↔ Group": {},
+          "Set ↔ VectorSpace": {},
+          "Set ↔ Monoid": {},
+          "Graph ↔ Category": {}
+        },
+        "Product‑Exponential (Currying)": {
+          "Tensor ↔ Hom": {},
+          "Function Space ↔ Cartesian Product": {}
+        },
+        "Galois Connections": {
+          "Subgroup ↔ Subfield": {},
+          "Ideals ↔ Algebraic Sets": {}
+        },
+        "Unit‑Counit Structures": {
+          "Adjoint Triangle": {},
+          "Monad Formation": {}
+        }
+      },
+      "Dualities": {
+        "Wave‑Particle": {},
+        "Electric‑Magnetic": {},
+        "Position‑Momentum": {},
+        "Time‑Frequency": {}
+      },
+      "Conservation Symmetry": {
+        "Energy‑Time": {},
+        "Momentum‑Space": {},
+        "Charge‑Phase": {},
+        "Information‑Entropy": {}
+      }
+    },
+
+    "Cross‑Disciplinary Structural Symmetries": {
+      "Fractals": {
+        "River Network": {},
+        "Blood Vessel": {},
+        "Market Fluctuation": {}
+      },
+      "Scale‑Free Networks": {
+        "Internet Topology": {},
+        "Brain Connectome": {},
+        "Social Graph": {}
+      },
+      "Feedback Loops": {
+        "Cybernetic Control": {},
+        "Homeostasis": {},
+        "Economic Supply‑Demand": {}
+      },
+      "Layered Architectures": {
+        "OSI Model": {},
+        "Cortical Layers": {},
+        "Sedimentary Strata": {}
+      }
+    },
+
+    "Humanities & Arts Symmetries": {
+      "Narrative Arcs": {
+        "Freytag Pyramid": {},
+        "Hero’s Journey": {},
+        "Sonata Form": {}
+      },
+      "Rhythmic Patterns": {
+        "Poetic Meter": {},
+        "Musical Time Signature": {},
+        "Breathing Cycle": {}
+      },
+      "Visual Composition": {
+        "Golden Ratio": {},
+        "Rule of Thirds": {},
+        "Architectural Symmetry": {}
+      }
+    },
+
+    "Engineering & Biology Analogues": {
+      "Biomimicry": {
+        "Bird Wing ↔ Airfoil": {},
+        "Lotus Leaf ↔ Hydrophobic Surface": {},
+        "Gecko Foot ↔ Adhesive": {}
+      },
+      "Flow Dynamics": {
+        "Blood Circulation ↔ Plumbing": {},
+        "Car Aerodynamics ↔ Dolphin Hydrodynamics": {}
+      },
+      "Structural Mechanics": {
+        "Bone Trabeculae ↔ Truss": {},
+        "Spiral Shell ↔ Logarithmic Antenna": {}
+      }
+    },
+
+    "Philosophical & Conceptual Symmetries": {
+      "Dialectics": {
+        "Thesis‑Antithesis‑Synthesis": {},
+        "Yin‑Yang": {}
+      },
+      "Epistemic Mirrors": {
+        "Observer Effect ↔ Reflexivity": {},
+        "Gödel Self‑Reference ↔ Metafiction": {}
+      }
+    }
+  }
+}

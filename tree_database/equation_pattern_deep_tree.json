@@ -1,0 +1,139 @@
+{
+  "Equation Patterns": {
+    "Algebraic": {
+      "Polynomial": {
+        "General Polynomial": {},
+        "Linear (Degree 1)": {},
+        "Quadratic (Degree 2)": {
+          "Quadratic Formula": {},
+          "Parabola Vertex": {}
+        },
+        "Cubic (Degree 3)": {
+          "Cardano Method": {}
+        },
+        "Quartic (Degree 4)": {
+          "Ferrari Method": {}
+        }
+      },
+      "Rational": {
+        "General Rational Equation": {},
+        "Reduction to Polynomial": {}
+      },
+      "Diophantine": {
+        "Linear Diophantine": {},
+        "Pythagorean Equation": {},
+        "Fermat Last Theorem": {}
+      }
+    },
+
+    "Linear Operator Equations": {
+      "Eigenvalue Problems": {
+        "Matrix Eigenvalue": {},
+        "Sturm–Liouville": {},
+        "Quantum Hamiltonian": {}
+      },
+      "Green's Function Equations": {
+        "Linear Operator Form": {},
+        "Convolution Solution": {}
+      }
+    },
+
+    "Ordinary Differential Equations": {
+      "First‑Order Linear": {
+        "General Form": {},
+        "Homogeneous": {
+          "Constant Coefficient": {
+            "Exponential Growth / Decay": {}
+          }
+        },
+        "Integrating Factor Method": {},
+        "Bernoulli Conversion": {}
+      },
+      "First‑Order Nonlinear": {
+        "Autonomous": {
+          "Logistic Equation": {}
+        },
+        "Separable": {
+          "Power‑Law Growth": {}
+        }
+      },
+      "Second‑Order Linear Constant‑Coeff": {
+        "General Form": {},
+        "Undamped SHO": {},
+        "Damped SHO": {},
+        "Forced SHO": {}
+      }
+    },
+
+    "Partial Differential Equations": {
+      "Second‑Order Linear Homogeneous": {
+        "Classification": {
+          "Elliptic": {
+            "Laplace Equation": {},
+            "Poisson Equation": {},
+            "Helmholtz Equation": {}
+          },
+          "Parabolic": {
+            "Heat Equation": {},
+            "Black‑Scholes Equation": {}
+          },
+          "Hyperbolic": {
+            "Wave Equation": {},
+            "Telegraph Equation": {}
+          }
+        }
+      },
+      "Conservation Laws": {
+        "General Conservation Form": {},
+        "Linear Advection Equation": {},
+        "Burgers Equation": {}
+      },
+      "Integrable Nonlinear": {
+        "KdV Equation": {},
+        "Nonlinear Schrödinger Equation": {}
+      }
+    },
+
+    "Integral & Transform Equations": {
+      "Convolution Integrals": {
+        "Convolution Definition": {}
+      },
+      "Volterra Integral Equations": {
+        "First Kind": {}
+      },
+      "Fredholm Integral Equations": {
+        "Second Kind": {}
+      },
+      "Laplace Transform Pair": {
+        "Laplace Transform": {},
+        "Inverse Laplace Transform": {}
+      }
+    },
+
+    "Variational & Field Equations": {
+      "Euler‑Lagrange Equations": {
+        "General Form": {},
+        "Geodesic Equation": {},
+        "Brachistochrone Problem": {},
+        "Minimal Surface Equation": {}
+      },
+      "Hamiltonian Mechanics": {
+        "Hamilton's Equations": {},
+        "Hamilton‑Jacobi Equation": {}
+      },
+      "Action Principles in Field Theory": {
+        "Maxwell Lagrangian": {},
+        "Einstein‑Hilbert Action": {}
+      }
+    },
+
+    "Stochastic & Statistical": {
+      "Stochastic Differential Equations": {
+        "Ito SDE": {},
+        "Ornstein‑Uhlenbeck Process": {}
+      },
+      "Fokker‑Planck Equation": {},
+      "Master Equation": {}
+    }
+  }
+}

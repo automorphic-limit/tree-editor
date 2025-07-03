@@ -1,0 +1,63 @@
+{
+  "Meta‑Analogies": {
+    "Type‑Level Analogies": {
+      "Structural ↔ Functional": {
+        "Mechanism Mapping": {},
+        "Form–Function Tradeoff": {}
+      },
+      "Process ↔ State": {
+        "Dynamic System ↔ Equilibrium Snapshot": {},
+        "Kinetic ↔ Thermodynamic": {}
+      },
+      "Quantitative ↔ Qualitative": {
+        "Metric Analogy": {},
+        "Categorical Analogy": {}
+      }
+    },
+
+    "Cross‑Domain Analogies of Analogies": {
+      "Physics Analogies ↔ Economics Analogies": {
+        "Energy Flow ↔ Money Flow": {},
+        "Phase Transition ↔ Market Crash": {}
+      },
+      "Biology Analogies ↔ Engineering Analogies": {
+        "Natural Selection ↔ Design Iteration": {},
+        "Neural Wiring ↔ Circuit Layout": {}
+      },
+      "Narrative Analogies ↔ Musical Analogies": {
+        "Story Arc ↔ Sonata Form": {},
+        "Character Motif ↔ Leitmotif": {}
+      }
+    },
+
+    "Analogy Construction Processes": {
+      "Retrieval Stage ↔ Data Mining": {},
+      "Alignment Stage ↔ Graph Matching": {},
+      "Mapping Stage ↔ Functor Application": {},
+      "Evaluation Stage ↔ Model Selection": {}
+    },
+
+    "Analogy Evaluation Metrics": {
+      "Surface Similarity ↔ Structural Depth": {},
+      "Generative Power ↔ Predictive Accuracy": {},
+      "Cognitive Plausibility ↔ Computational Efficiency": {}
+    },
+
+    "Generative Meta‑Analogies": {
+      "Metaphor Generator ↔ Analogy Generator": {},
+      "Transfer Learning ↔ Case‑Based Reasoning": {},
+      "Conceptual Blending ↔ Feature Synthesis": {}
+    },
+
+    "Symmetry of Analogical Roles": {
+      "Source Domain ↔ Target Domain": {
+        "Forward Mapping": {},
+        "Backward Mapping": {}
+      },
+      "Base Analogy ↔ Extension Analogy": {
+        "Schema Injection": {},
+        "Analogical Chain": {}
+      }
+    }
+  }
+}

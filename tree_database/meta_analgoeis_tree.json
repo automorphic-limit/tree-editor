@@ -1,0 +1,123 @@
+{
+  "Meta-Analogies": {
+    "Type-Level Analogies": {
+      "Structural ↔ Functional": {
+        "Mechanism Mapping": {},
+        "Tradeoff Spectrum": {},
+        "Isomorphic Dynamics": {}
+      },
+      "Process ↔ State": {
+        "Flow ↔ Stock": {},
+        "Kinetic ↔ Thermodynamic": {},
+        "Transient ↔ Steady": {}
+      },
+      "Quantitative ↔ Qualitative": {
+        "Metric Analogy": {},
+        "Ordinal Analogy": {},
+        "Categorical Analogy": {},
+        "Fuzzy Analogy": {}
+      },
+      "Discrete ↔ Continuous": {
+        "Digital Sampling ↔ Analog Signal": {},
+        "Particle Count ↔ Field Density": {}
+      }
+    },
+
+    "Cross-Domain Analogies of Analogies": {
+      "Physics ↔ Economics": {
+        "Energy Flow ↔ Money Flow": {},
+        "Phase Transition ↔ Market Crash": {},
+        "Entropy ↔ Inequality Index": {}
+      },
+      "Biology ↔ Engineering": {
+        "Natural Selection ↔ Design Iteration": {},
+        "Neural Wiring ↔ Circuit Layout": {},
+        "Gene Regulation ↔ Feedback Controller": {}
+      },
+      "Narrative ↔ Music": {
+        "Story Arc ↔ Sonata Form": {},
+        "Character Motif ↔ Leitmotif": {},
+        "Plot Twist ↔ Modulation": {}
+      },
+      "Language ↔ Mathematics": {
+        "Grammar Rule ↔ Inference Rule": {},
+        "Sentence Parse ↔ Expression Tree": {}
+      }
+    },
+
+    "Analogy Construction Processes": {
+      "Retrieval Stage ↔ Data Mining": {
+        "Cue‑Based Search": {},
+        "Semantic Vector Search": {}
+      },
+      "Alignment Stage ↔ Graph Matching": {
+        "Structure Mapping": {},
+        "Constraint Satisfaction": {}
+      },
+      "Mapping Stage ↔ Functor Application": {
+        "Homomorphic Transfer": {},
+        "Schema Projection": {}
+      },
+      "Evaluation Stage ↔ Model Selection": {
+        "Fit Scoring": {},
+        "Simplicity Bias": {}
+      },
+      "Adaptation Stage ↔ Domain Adaptation": {
+        "Parameter Tuning": {},
+        "Refinement Loop": {}
+      }
+    },
+
+    "Analogy Evaluation Metrics": {
+      "Surface ↔ Structural": {
+        "Literal Similarity": {},
+        "Deep Relational Match": {}
+      },
+      "Generative Power ↔ Predictive Accuracy": {
+        "Explanatory Reach": {},
+        "Forecast Skill": {}
+      },
+      "Cognitive Plausibility ↔ Computational Efficiency": {
+        "Working Memory Load": {},
+        "Algorithmic Complexity": {}
+      },
+      "Creativity ↔ Fidelity": {
+        "Novelty Score": {},
+        "Faithful Mapping": {}
+      }
+    },
+
+    "Generative Meta-Analogies": {
+      "Metaphor Generator ↔ Analogy Generator": {
+        "Template‑Based": {},
+        "Probabilistic": {},
+        "Neural Transformer": {}
+      },
+      "Transfer Learning ↔ Case‑Based Reasoning": {
+        "Feature Reuse": {},
+        "Instance Retrieval": {}
+      },
+      "Conceptual Blending ↔ Feature Synthesis": {
+        "Blend Space Search": {},
+        "Attribute Combination": {}
+      }
+    },
+
+    "Symmetry of Analogical Roles": {
+      "Source ↔ Target": {
+        "Forward Mapping": {},
+        "Backward Mapping": {},
+        "Round‑Trip Consistency": {}
+      },
+      "Base Analogy ↔ Extension": {
+        "Schema Injection": {},
+        "Analogical Chain": {},
+        "Analogy Network": {}
+      },
+      "Macro ↔ Micro Analogy": {
+        "Global Theme ↔ Local Detail": {},
+        "Pattern ↔ Motif": {}
+      }
+    }
+  }
+}

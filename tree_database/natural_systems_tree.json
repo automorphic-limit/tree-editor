@@ -1,0 +1,227 @@
+{
+  "Natural Systems": {
+    "Weather": {
+      "Atmospheric Layers": {
+        "Troposphere": {},
+        "Stratosphere": {},
+        "Mesosphere": {},
+        "Thermosphere": {},
+        "Exosphere": {}
+      },
+      "Weather Phenomena": {
+        "Cyclones": {
+          "Tropical Cyclone": {
+            "Hurricane": {},
+            "Typhoon": {}
+          },
+          "Extratropical Cyclone": {},
+          "Polar Low": {}
+        },
+        "Thunderstorms": {
+          "Single Cell": {},
+          "Multi Cell": {},
+          "Supercell": {}
+        },
+        "Fronts": {
+          "Cold Front": {},
+          "Warm Front": {},
+          "Occluded Front": {},
+          "Stationary Front": {}
+        },
+        "Precipitation Types": {
+          "Rain": {},
+          "Snow": {},
+          "Sleet": {},
+          "Hail": {}
+        },
+        "Severe Weather": {
+          "Tornado": {},
+          "Derecho": {},
+          "Blizzard": {},
+          "Dust Storm": {}
+        },
+        "Optical Phenomena": {
+          "Rainbow": {},
+          "Halo": {},
+          "Glory": {}
+        }
+      },
+      "Atmospheric Dynamics": {
+        "Jet Streams": {
+          "Polar Jet": {},
+          "Subtropical Jet": {}
+        },
+        "Convection": {
+          "Hadley Cell": {},
+          "Ferrel Cell": {},
+          "Polar Cell": {}
+        },
+        "Atmospheric Waves": {
+          "Rossby Wave": {},
+          "Gravity Wave": {},
+          "Kelvin Wave": {}
+        },
+        "Boundary Layer Processes": {
+          "Turbulence": {},
+          "Surface Heating": {}
+        }
+      },
+      "Hydrometeorology": {
+        "Evapotranspiration": {},
+        "Runoff Generation": {},
+        "Urban Heat Island": {}
+      }
+    },
+
+    "Climate": {
+      "Climate Zones": {
+        "Köppen Tropical": {},
+        "Köppen Arid": {},
+        "Köppen Temperate": {},
+        "Köppen Continental": {},
+        "Köppen Polar": {}
+      },
+      "Climate Forcings": {
+        "Natural": {
+          "Solar Variability": {},
+          "Volcanic Aerosols": {},
+          "Orbital Milankovitch": {}
+        },
+        "Anthropogenic": {
+          "Greenhouse Gases": {},
+          "Land Use Change": {},
+          "Aerosol Emissions": {}
+        }
+      },
+      "Climate Oscillations": {
+        "ENSO": {
+          "El Niño": {},
+          "La Niña": {}
+        },
+        "NAO": {},
+        "PDO": {},
+        "AMO": {},
+        "IOD": {}
+      },
+      "Climate Feedbacks": {
+        "Ice Albedo": {},
+        "Water Vapor": {},
+        "Cloud": {},
+        "Carbon Cycle": {}
+      },
+      "Paleoclimate Proxies": {
+        "Ice Cores": {},
+        "Tree Rings": {},
+        "Sediment Cores": {},
+        "Corals": {}
+      },
+      "Climate Change Impacts": {
+        "Sea Level Rise": {},
+        "Extreme Weather Trends": {},
+        "Ecosystem Shifts": {}
+      }
+    },
+
+    "Geology": {
+      "Earth Structure": {
+        "Crust": {},
+        "Mantle": {},
+        "Outer Core": {},
+        "Inner Core": {}
+      },
+      "Plate Tectonics": {
+        "Divergent Boundary": {
+          "Mid‑Ocean Ridge": {},
+          "Rift Valley": {}
+        },
+        "Convergent Boundary": {
+          "Subduction Zone": {},
+          "Continental Collision": {}
+        },
+        "Transform Boundary": {
+          "Strike‑Slip Fault": {}
+        }
+      },
+      "Rock Cycle": {
+        "Igneous": {
+          "Intrusive": {},
+          "Extrusive": {}
+        },
+        "Sedimentary": {
+          "Clastic": {},
+          "Chemical": {},
+          "Organic": {}
+        },
+        "Metamorphic": {
+          "Foliated": {},
+          "Non‑Foliated": {}
+        }
+      },
+      "Geological Hazards": {
+        "Earthquakes": {},
+        "Volcanic Eruptions": {},
+        "Landslides": {},
+        "Tsunamis": {}
+      },
+      "Surface Processes": {
+        "Weathering": {
+          "Chemical Weathering": {},
+          "Physical Weathering": {}
+        },
+        "Erosion": {
+          "Fluvial": {},
+          "Glacial": {},
+          "Aeolian": {}
+        },
+        "Soil Formation": {},
+        "Karst Processes": {}
+      },
+      "Georesources": {
+        "Mineral Deposits": {},
+        "Fossil Fuels": {},
+        "Geothermal Energy": {}
+      }
+    },
+
+    "Interactions": {
+      "Atmosphere‑Ocean": {
+        "Air‑Sea Fluxes": {
+          "Sensible Heat": {},
+          "Latent Heat": {},
+          "Momentum": {}
+        },
+        "Ocean Circulation": {
+          "Thermohaline": {},
+          "Gyres": {},
+          "Upwelling": {}
+        },
+        "Sea Ice Feedbacks": {},
+        "Hurricane Intensification": {}
+      },
+      "Climate‑Geology": {
+        "Silicate Weathering Feedback": {},
+        "Volcanic CO2 Emissions": {},
+        "Tectonic Uplift Weather Patterns": {}
+      },
+      "Hydrologic Cycle": {
+        "Surface Water": {
+          "Rivers": {},
+          "Lakes": {}
+        },
+        "Groundwater": {
+          "Aquifers": {},
+          "Recharge Zones": {}
+        },
+        "Cryosphere": {
+          "Glaciers": {},
+          "Permafrost": {}
+        }
+      },
+      "Biosphere Coupling": {
+        "Vegetation‑Climate Feedback": {},
+        "Biogeochemical Cycles": {},
+        "Soil‑Microbe Interactions": {}
+      }
+    }
+  }
+}
